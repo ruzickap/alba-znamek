@@ -1,0 +1,3 @@
+[codespell]
+# Czech / German stamp descriptions and lock files
+skip = web/src/lib/stamps/*,web/src/lib/*.json,web/bun.lock,web/public/*

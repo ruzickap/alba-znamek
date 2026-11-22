@@ -1,0 +1,3038 @@
+{
+  "20261121-093136.avif": {
+    "note": "Stránka první republiky: Hradčany, sibiřské legionářské známky, plebiscitní přetisky SO 1920, legionářská série 1919 a rakouské a uherské známky s přetiskem POŠTA ČESKOSLOVENSKÁ 1919.",
+    "stamps": [
+      {
+        "name": "Hradčany, 1 h hnědá, nezoubkovaná",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 1",
+        "box": [0.128, 0.046, 0.264, 0.134],
+        "description": "První československá výplatní série podle návrhu Alfonse Muchy, motiv Pražského hradu. Hodnota 1 h patří ke kresbě s velkým bílým nápisem. Na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Hradčany (poštovní známky)",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dany_(po%C5%A1tovn%C3%AD_zn%C3%A1mky)"
+          }
+        ]
+      },
+      {
+        "name": "Polní pošta v Rusku, silueta 25 kopějek červená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis PP2",
+        "box": [0.493, 0.028, 0.615, 0.131],
+        "description": "Dobročinná známka čs. polní pošty na Sibiři („Vojenská pošta československému vojsku na Rusi“) se siluetou Hradčan, kamenotisk, návrh J. Malý. Na stránce jsou 2 kusy.",
+        "price": "cena nedohledána",
+        "sources": [
+          {
+            "title": "Burda Auction, Polní pošta v Rusku (Siluety 1919)",
+            "url": "https://www.burda-auction.com/en/online-auction-75/show/1405/philately-czechoslovakia-1918_1939-newspaper-stamps-military-post-in-siberia"
+          }
+        ]
+      },
+      {
+        "name": "Polní pošta v Rusku, silueta 1 rubl červená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis PP4",
+        "box": [0.562, 0.105, 0.683, 0.236],
+        "description": "Hodnota 1 rubl ze stejné sibiřské emise, silueta legionáře s puškou, návrh E. Číla. Na stránce jsou 2 kusy.",
+        "price": "cena nedohledána",
+        "sources": [
+          {
+            "title": "Burda Auction, Polní pošta v Rusku (Siluety 1919)",
+            "url": "https://www.burda-auction.com/en/online-auction-75/show/1405/philately-czechoslovakia-1918_1939-newspaper-stamps-military-post-in-siberia"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 30 h světle fialová, zoubkovaná",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 13",
+        "box": [0.113, 0.145, 0.247, 0.234],
+        "description": "Nejpozději vydaná hodnota Hradčan (duben 1920), kresba typu E. Kus je zoubkovaný; přesný druh zoubkování (A–H) by bylo třeba změřit zoubkoměrem.",
+        "price": "cena nedohledána, podle druhu zoubkování",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Hradčany (poštovní známky)",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dany_(po%C5%A1tovn%C3%AD_zn%C3%A1mky)"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 10 h zelená, zoubkovaná",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 6",
+        "box": [0.259, 0.15, 0.392, 0.234],
+        "description": "Zelená 10 h vyšla jen zoubkovaná. Na stránce jsou 2 kusy v různém odstínu zelené.",
+        "price": "nepoužitá orientačně do 50 Kč u běžného zoubkování C, vzácnější zoubkování A/B v řádu stovek Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Hradčany (poštovní známky)",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dany_(po%C5%A1tovn%C3%AD_zn%C3%A1mky)"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany s přetiskem Červeného kříže, 40 + 20 h žlutá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 170",
+        "box": [0.808, 0.147, 0.948, 0.235],
+        "description": "Příplatková známka ve prospěch Červeného kříže: Hradčany 40 h s červeným přetiskem kříže a příplatku „20 haléřů“.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 3 h fialová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO2",
+        "box": [0.071, 0.25, 0.212, 0.338],
+        "description": "Plebiscitní přetisk „SO 1920“ (Silésie Orientale) pro hlasování na Těšínsku a Oravě. Na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 20 h modrozelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO6",
+        "box": [0.356, 0.257, 0.497, 0.344],
+        "description": "Plebiscitní přetisk SO 1920 na Hradčanech 20 h.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 50 h fialová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO12",
+        "box": [0.509, 0.26, 0.651, 0.346],
+        "description": "Plebiscitní přetisk SO 1920 na fialové 50 h.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 75 h šedozelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO15",
+        "box": [0.646, 0.26, 0.786, 0.348],
+        "description": "Přetisk SO 1920 je u této hodnoty červený.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 80 h olivová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO16",
+        "box": [0.808, 0.25, 0.951, 0.35],
+        "description": "Přetisk SO 1920 v červené barvě.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 1 h hnědá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO1",
+        "box": [0.089, 0.356, 0.224, 0.443],
+        "description": "Nejnižší hodnota plebiscitní řady SO 1920.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Hradčany 5 h modrozelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO3",
+        "box": [0.225, 0.361, 0.36, 0.446],
+        "description": "Katalogově dražší hodnota řady SO 1920. U dražších přetisků se vyskytují padělky, pravost by měl potvrdit znalec.",
+        "price": "nepoužitá orientačně 201–999 Kč (cenová hladina Znamky.cz), u pravého kusu",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, spěšná 2 h fialová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO26",
+        "box": [0.647, 0.376, 0.792, 0.448],
+        "description": "Spěšná známka (holubice) s modrým plebiscitním přetiskem „SO 1920“.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, spěšná 5 h zelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO27",
+        "box": [0.793, 0.379, 0.94, 0.456],
+        "description": "Spěšná známka 5 h s modrým přetiskem SO 1920.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Legionářské, 15 h zelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 27",
+        "box": [0.052, 0.456, 0.171, 0.556],
+        "description": "Série k 1. výročí vzniku ČSR, výtěžek pro legionáře. Lev trhající okovy podle návrhu V. H. Brunnera. Na stránce jsou 3 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "World Stamps Project, Pošta Československá 1919",
+            "url": "https://worldstampsproject.org/posta-ceskoslovenska-1919-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Legionářské, 25 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 28",
+        "box": [0.292, 0.462, 0.409, 0.56],
+        "description": "Lev trhající okovy, legionářská série 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Legionářské, 50 h modrá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 29",
+        "box": [0.411, 0.465, 0.534, 0.562],
+        "description": "Lev trhající okovy, legionářská série 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Legionářské, 75 h šedá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 30",
+        "box": [0.534, 0.479, 0.672, 0.568],
+        "description": "Vyšší hodnoty série nesou motiv matky s dítětem a nápis „Sirotkům našich legionářů“.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Legionářské, 100 h hnědofialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 31",
+        "box": [0.671, 0.479, 0.81, 0.57],
+        "description": "Matka s dítětem, legionářská série 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Legionářské, 120 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 32",
+        "box": [0.81, 0.48, 0.948, 0.571],
+        "description": "Nejvyšší hodnota legionářské série.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, doplatní PORTO 15 h na 36 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 86",
+        "box": [0.44, 0.575, 0.561, 0.674],
+        "description": "Rakouská známka s portrétem Františka Josefa, přetištěná na doplatní „PORTO 15“ a v roce 1919 československým přetiskem „POŠTA ČESKOSLOVENSKÁ 1919“.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "World Stamps Project, Pošta Československá 1919",
+            "url": "https://worldstampsproject.org/posta-ceskoslovenska-1919-stamps"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, novinová Merkur 2 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 60",
+        "box": [0.587, 0.592, 0.702, 0.678],
+        "description": "Rakouská nezoubkovaná novinová známka s hlavou Merkura, přetisk POŠTA ČESKOSLOVENSKÁ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "World Stamps Project, Pošta Československá 1919",
+            "url": "https://worldstampsproject.org/posta-ceskoslovenska-1919-stamps"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, novinová Merkur 4 h zelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 61",
+        "box": [0.706, 0.594, 0.825, 0.68],
+        "description": "Rakouská novinová známka s přetiskem PČ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, novinová Merkur 6 h modrá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 62",
+        "box": [0.824, 0.592, 0.941, 0.681],
+        "description": "Rakouská novinová známka s přetiskem PČ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, doplatní 5 h červená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 72",
+        "box": [0.071, 0.696, 0.187, 0.783],
+        "description": "Rakouská doplatní známka s malým číslem hodnoty a přetiskem POŠTA ČESKOSLOVENSKÁ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "World Stamps Project, Pošta Československá 1919",
+            "url": "https://worldstampsproject.org/posta-ceskoslovenska-1919-stamps"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, uherští Ženci 3 f fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 102",
+        "box": [0.03, 0.814, 0.129, 0.897],
+        "description": "Uherská známka Ženci (Magyar kir. posta) s barevným číslem hodnoty a přetiskem POŠTA ČESKOSLOVENSKÁ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "World Stamps Project, Pošta Československá 1919",
+            "url": "https://worldstampsproject.org/posta-ceskoslovenska-1919-stamps"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, uherští Ženci 5 f zelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 103",
+        "box": [0.14, 0.817, 0.239, 0.9],
+        "description": "Uherská známka Ženci s přetiskem PČ 1919. Na stránce jsou 2 kusy. U přetisků PČ 1919 je hodně padělků.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "World Stamps Project, Pošta Československá 1919",
+            "url": "https://worldstampsproject.org/posta-ceskoslovenska-1919-stamps"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, uherští Ženci 15 f fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 106",
+        "box": [0.438, 0.826, 0.536, 0.91],
+        "description": "Uherská známka Ženci s přetiskem PČ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, uherská Karel 10 f červená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 119",
+        "box": [0.548, 0.826, 0.646, 0.911],
+        "description": "Uherská známka s portrétem krále Karla IV. s přetiskem PČ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, uherská spěšná novinová 2 f",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 124",
+        "box": [0.661, 0.831, 0.759, 0.916],
+        "description": "Uherská spěšná novinová známka s nápisem „SÜRGŐS“ (spěšné) a přetiskem PČ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "PČ 1919, uherská novinová 2 f oranžová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 125",
+        "box": [0.81, 0.836, 0.921, 0.923],
+        "description": "Nezoubkovaná uherská novinová známka se Svatoštěpánskou korunou, přetisk POŠTA ČESKOSLOVENSKÁ 1919.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093150.avif": {
+    "stamps": [
+      {
+        "name": "Sokol v letu, 10 h fialová",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV4",
+        "box": [0.064, 0.038, 0.187, 0.149],
+        "description": "Novinová známka „Sokol v letu“ (někdy nazývaná Holubice) podle návrhu A. Muchy, nezoubkovaná.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, 20 h modrá",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV5",
+        "box": [0.205, 0.027, 0.325, 0.126],
+        "description": "Novinová známka „Sokol v letu“ (někdy nazývaná Holubice) podle návrhu A. Muchy, nezoubkovaná.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, 30 h hnědá",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV6",
+        "box": [0.329, 0.044, 0.444, 0.15],
+        "description": "Novinová známka „Sokol v letu“ (někdy nazývaná Holubice) podle návrhu A. Muchy, nezoubkovaná.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, 50 h oranžová",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV7",
+        "box": [0.468, 0.046, 0.634, 0.152],
+        "description": "Novinová známka „Sokol v letu“ (někdy nazývaná Holubice) podle návrhu A. Muchy, nezoubkovaná. Kus s okrajem archu a barevnou okrajovou linkou.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, 100 h červenohnědá",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV8",
+        "box": [0.644, 0.043, 0.813, 0.143],
+        "description": "Nejvyšší hodnota novinové série Sokol v letu, kus s okrajem archu a okrajovou linkou.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, 5 h zelená, soukromě zoubkovaná",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV2",
+        "box": [0.084, 0.174, 0.203, 0.278],
+        "description": "Novinové známky vyšly nezoubkované; zoubkování na tomto kusu je soukromé (dobové firemní nebo poštovní).",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 50 h zelená",
+        "country": "Československo",
+        "year": "1925–1926",
+        "box": [0.663, 0.169, 0.765, 0.27],
+        "description": "Portrét prezidenta Masaryka v rámu z lipových listů. Existuje vydání 1925 (Pofis 188) a s pozměněnou kresbou 1926 (Pofis 204, 206); rozlišení vyžaduje srovnání detailů. Na stránce jsou 2 kusy v odlišném odstínu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Sokol v letu 2 h zelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO28",
+        "box": [0.084, 0.302, 0.201, 0.411],
+        "description": "Novinová známka s plebiscitním přetiskem SO 1920.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Sokol v letu 6 h červená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO29",
+        "box": [0.212, 0.306, 0.329, 0.409],
+        "description": "Novinová známka s plebiscitním přetiskem SO 1920.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "SO 1920, Sokol v letu 20 h modrá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis SO31",
+        "box": [0.336, 0.3, 0.454, 0.404],
+        "description": "Novinová známka s plebiscitním přetiskem SO 1920.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "O.T., Sokol v letu 10 h fialová",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis OT1",
+        "box": [0.468, 0.306, 0.588, 0.406],
+        "description": "Novinová známka Sokol v letu s tmavomodrým přetiskem „O.T.“ (obchodní tiskovina) z 15. 11. 1934; známky se prodávaly jen oprávněným firmám a vyšly nezoubkované. Nejběžnější hodnota (náklad přes 88 milionů).",
+        "price": "cena nedohledána, běžná známka v řádu korun",
+        "sources": [
+          {
+            "title": "Burda Auction, známky pro obchodní tiskoviny 1934",
+            "url": "https://www.burda-auction.com/en/public-auction-72/show/2627/philately-czechoslovakia-1918_1939-printed-matter-stamps-1934"
+          }
+        ]
+      },
+      {
+        "name": "O.T., Sokol v letu 20 h modrá",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis OT2",
+        "box": [0.634, 0.298, 0.753, 0.401],
+        "description": "Novinová známka Sokol v letu s tmavomodrým přetiskem „O.T.“ (obchodní tiskovina) z 15. 11. 1934; známky se prodávaly jen oprávněným firmám a vyšly nezoubkované. Náklad jen 6,23 milionu kusů.",
+        "price": "cena nedohledána",
+        "sources": [
+          {
+            "title": "Burda Auction, známky pro obchodní tiskoviny 1934",
+            "url": "https://www.burda-auction.com/en/public-auction-72/show/2627/philately-czechoslovakia-1918_1939-printed-matter-stamps-1934"
+          }
+        ]
+      },
+      {
+        "name": "O.T., Sokol v letu 30 h hnědá",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis OT3",
+        "box": [0.762, 0.292, 0.934, 0.4],
+        "description": "Novinová známka Sokol v letu s tmavomodrým přetiskem „O.T.“ (obchodní tiskovina) z 15. 11. 1934; známky se prodávaly jen oprávněným firmám a vyšly nezoubkované. Nejmenší náklad (1,67 milionu). Kus s okrajem archu a okrajovou linkou.",
+        "price": "cena nedohledána",
+        "sources": [
+          {
+            "title": "Burda Auction, známky pro obchodní tiskoviny 1934",
+            "url": "https://www.burda-auction.com/en/public-auction-72/show/2627/philately-czechoslovakia-1918_1939-printed-matter-stamps-1934"
+          }
+        ]
+      },
+      {
+        "name": "Holubice, 10 h olivová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 146",
+        "box": [0.065, 0.445, 0.162, 0.541],
+        "description": "Výplatní série Holubice s dopisem v zobáku podle návrhu V. H. Brunnera.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Strahov, 1,20 Kč fialová",
+        "country": "Československo",
+        "year": "1926–1927",
+        "catalog": "Pofis 212/219",
+        "box": [0.184, 0.429, 0.282, 0.574],
+        "description": "Série Hrady, krajiny a města 1926–1927, rytina. Vydání s průsvitkou (1926) a bez průsvitky (1927) má různá katalogová čísla; bez kontroly průsvitky je nelze rozlišit. Na stránce jsou 3 kusy, jeden s horním a jeden s levým okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Holubice, 20 h oranžová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 148",
+        "box": [0.292, 0.434, 0.387, 0.534],
+        "description": "Výplatní série Holubice s dopisem.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 20 h červená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 151",
+        "box": [0.437, 0.439, 0.532, 0.538],
+        "description": "Alegorie republiky zbavené pout podle návrhu V. H. Brunnera.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 40 h hnědá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 154",
+        "box": [0.543, 0.432, 0.64, 0.534],
+        "description": "Alegorie osvobozené republiky.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 50 h zelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 156",
+        "box": [0.652, 0.432, 0.753, 0.534],
+        "description": "Alegorie osvobozené republiky.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Karlštejn, 1,50 Kč červená",
+        "country": "Československo",
+        "year": "1926–1927",
+        "catalog": "Pofis 214/220",
+        "box": [0.291, 0.531, 0.388, 0.67],
+        "description": "Série Hrady, krajiny a města 1926–1927, rytina. Vydání s průsvitkou (1926) a bez průsvitky (1927) má různá katalogová čísla; bez kontroly průsvitky je nelze rozlišit. Na stránce jsou 2 kusy, jeden s horním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Pernštejn, 2 Kč zelená",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 221",
+        "box": [0.495, 0.567, 0.59, 0.668],
+        "description": "Série Hrady, krajiny a města, vydání bez průsvitky.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Praha – Národní muzeum, 2,50 Kč modrá",
+        "country": "Československo",
+        "year": "1926–1927",
+        "box": [0.603, 0.564, 0.7, 0.665],
+        "description": "Série Hrady, krajiny a města 1926–1927, rytina. Vydání s průsvitkou (1926) a bez průsvitky (1927) má různá katalogová čísla; bez kontroly průsvitky je nelze rozlišit. Hodnota 2,50 Kč existuje jako Pofis 215, 222 a 223. Na stránce jsou 2 kusy.",
+        "price": "nepoužitá orientačně do 50 Kč u běžných čísel 215 a 223 (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Orava, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1931",
+        "catalog": "Pofis 224",
+        "box": [0.846, 0.562, 0.95, 0.663],
+        "description": "Doplňková hodnota série Hrady, krajiny a města s Oravským hradem.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Hradec u Opavy, 30 h černá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 233",
+        "box": [0.055, 0.705, 0.191, 0.809],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Levoča, 40 h hnědá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 234",
+        "box": [0.197, 0.702, 0.332, 0.805],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina. Na stránce jsou 2 kusy, jeden s horním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Praha – telefonní ústředna, 50 h zelená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 235",
+        "box": [0.482, 0.697, 0.62, 0.805],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Jasiňa, 60 h oranžová",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 236",
+        "box": [0.638, 0.688, 0.827, 0.81],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina. Kus s pravým okrajem archu a barevnými okrajovými linkami.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Hluboká, 1 Kč červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 237",
+        "box": [0.052, 0.832, 0.228, 0.953],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina. Kus s pravým okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Velehrad, 1,20 Kč fialová",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 238",
+        "box": [0.231, 0.837, 0.368, 0.95],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina. Na stránce jsou 2 kusy, druhý s dolním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Brno, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 239",
+        "box": [0.531, 0.815, 0.646, 0.953],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Tatry, 2,50 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 240",
+        "box": [0.669, 0.827, 0.852, 0.945],
+        "description": "Jubilejní série k 10. výročí vzniku ČSR, s letopočty 1918–1928, rytina. Kus s levým okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093203.avif": {
+    "stamps": [
+      {
+        "name": "Sv. Václav, 50 h zelená",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 243",
+        "box": [0.077, 0.029, 0.194, 0.125],
+        "description": "Série k 1000. výročí smrti sv. Václava, rytina K. Seizinger. Na stránce jsou 3 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Sv. Václav, 60 h šedomodrá",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 244",
+        "box": [0.442, 0.042, 0.551, 0.136],
+        "description": "Série k 1000. výročí smrti sv. Václava, rytina K. Seizinger.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sv. Václav, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 245",
+        "box": [0.557, 0.021, 0.67, 0.14],
+        "description": "Série k 1000. výročí smrti sv. Václava, rytina K. Seizinger. Kus s horním okrajem archu a okrajovými linkami.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Sv. Václav, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 246",
+        "box": [0.682, 0.048, 0.797, 0.146],
+        "description": "Série k 1000. výročí smrti sv. Václava, rytina K. Seizinger.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 30 h fialová",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 252",
+        "box": [0.84, 0.037, 0.942, 0.128],
+        "description": "Výplatní série Státní znak (velký státní znak), rotační ocelotisk. Na stránce je přes 20 kusů: jednotlivě, ve dvojicích i ve čtyřblocích s dolním okrajem archu a deskovými čísly 2 a 2A.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 5 h modrá",
+        "country": "Československo",
+        "year": "1931",
+        "catalog": "Pofis 248",
+        "box": [0.078, 0.151, 0.177, 0.23],
+        "description": "Výplatní série Státní znak (velký státní znak), rotační ocelotisk.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 10 h hnědá, čtyřblok",
+        "country": "Československo",
+        "year": "1931",
+        "catalog": "Pofis 249",
+        "box": [0.187, 0.128, 0.411, 0.25],
+        "description": "Výplatní série Státní znak (velký státní znak), rotační ocelotisk. Čtyřblok s horním okrajem archu, spodní dvojice je částečně zakrytá.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 20 h červená, čtyřblok",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 250",
+        "box": [0.404, 0.15, 0.603, 0.3],
+        "description": "Výplatní série Státní znak (velký státní znak), rotační ocelotisk. Na stránce jsou tři čtyřbloky této hodnoty; označený je čtyřblok s dolním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 25 h zelená",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 251",
+        "box": [0.814, 0.126, 0.922, 0.236],
+        "description": "Výplatní série Státní znak (velký státní znak), rotační ocelotisk. Kus s dolním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 40 h červenohnědá",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 253",
+        "box": [0.292, 0.477, 0.395, 0.557],
+        "description": "Výplatní série Státní znak (velký státní znak), rotační ocelotisk.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1918–1929 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 50 h zelená",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis 258",
+        "box": [0.404, 0.49, 0.504, 0.578],
+        "description": "Výplatní známka s novým portrétem prezidenta, rytina K. Seizinger. Na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 1 Kč červená",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis 260",
+        "box": [0.605, 0.498, 0.699, 0.583],
+        "description": "Výplatní známka s novým portrétem prezidenta. Na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "80. narozeniny T. G. Masaryka, 2 Kč zelená",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis 261",
+        "box": [0.802, 0.47, 0.938, 0.588],
+        "description": "Velkoformátová série k 80. narozeninám prezidenta s letopočty 1850–1930.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Hrady, Orlík, 4 Kč modrá",
+        "country": "Československo",
+        "year": "1932",
+        "catalog": "Pofis 266",
+        "box": [0.044, 0.577, 0.153, 0.668],
+        "description": "Série Hrady (Křivoklát, Orlík, Český Krumlov), předloha hradu Orlík od J. Vaice, rytina K. Seizinger.",
+        "price": "nepoužitá orientačně 50–200 Kč, razítkovaná do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Tyrš, 50 h zelená",
+        "country": "Československo",
+        "year": "1932",
+        "catalog": "Pofis 268",
+        "box": [0.155, 0.58, 0.279, 0.67],
+        "description": "Série ke 100. výročí narození zakladatele Sokola Miroslava Tyrše, letopočty 1832–1932. Na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Tyrš, 60 h fialová",
+        "country": "Československo",
+        "year": "1933",
+        "catalog": "Pofis 272",
+        "box": [0.416, 0.605, 0.513, 0.681],
+        "description": "Samostatně vydaná hodnota s portrétem Tyrše ze 1. 2. 1933.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Nitra, 50 h zelená",
+        "country": "Československo",
+        "year": "1933",
+        "catalog": "Pofis 273",
+        "box": [0.602, 0.602, 0.714, 0.693],
+        "description": "K 1100. výročí prvního křesťanského kostela v Nitře, letopočty 833–1933.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Nitra, 1 Kč červená",
+        "country": "Československo",
+        "year": "1933",
+        "catalog": "Pofis 274",
+        "box": [0.717, 0.607, 0.829, 0.696],
+        "description": "Druhá hodnota emise Nitra, vstupní brána Nitranského hradu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Bedřich Smetana, 50 h zelená",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 275",
+        "box": [0.84, 0.62, 0.942, 0.703],
+        "description": "K 50. výročí úmrtí skladatele Bedřicha Smetany.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "20 let čs. legií, 50 h zelená",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 276",
+        "box": [0.017, 0.697, 0.218, 0.78],
+        "description": "Série k 20. výročí čs. legií (vzniku čs. branné moci), návrh V. Fiala.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "20 let čs. legií, 1 Kč fialová",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 277",
+        "box": [0.219, 0.707, 0.42, 0.794],
+        "description": "Série k 20. výročí čs. legií (vzniku čs. branné moci), návrh V. Fiala.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "20 let čs. legií, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 278",
+        "box": [0.45, 0.659, 0.566, 0.795],
+        "description": "Série k 20. výročí čs. legií (vzniku čs. branné moci), návrh V. Fiala. Prapor České družiny.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "20 let čs. legií, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 279",
+        "box": [0.557, 0.662, 0.68, 0.808],
+        "description": "Série k 20. výročí čs. legií (vzniku čs. branné moci), návrh V. Fiala.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Antonín Dvořák, 50 h zelená",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 280",
+        "box": [0.829, 0.725, 0.932, 0.813],
+        "description": "K 30. výročí úmrtí skladatele Antonína Dvořáka.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Kde domov můj?, 1 Kč fialová",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 281",
+        "box": [0.033, 0.822, 0.187, 0.908],
+        "description": "Ke 100. výročí vzniku písně „Kde domov můj?“ (letopočty 1834–1934).",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Kde domov můj?, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 282",
+        "box": [0.192, 0.821, 0.355, 0.908],
+        "description": "Druhá hodnota emise ke 100. výročí hymny.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "85. narozeniny T. G. Masaryka, 50 h zelená",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 285",
+        "box": [0.42, 0.827, 0.511, 0.933],
+        "description": "Série k 85. narozeninám T. G. Masaryka, portrét s podpisem prezidenta.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "85. narozeniny T. G. Masaryka, 1 Kč červená",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 286",
+        "box": [0.511, 0.832, 0.608, 0.935],
+        "description": "Série k 85. narozeninám T. G. Masaryka, portrét s podpisem prezidenta.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "85. narozeniny T. G. Masaryka, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 287",
+        "box": [0.67, 0.812, 0.792, 0.948],
+        "description": "Série k 85. narozeninám T. G. Masaryka, portrét s podpisem prezidenta. Portrét v klobouku, kus s horním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "85. narozeniny T. G. Masaryka, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 288",
+        "box": [0.792, 0.816, 0.921, 0.948],
+        "description": "Série k 85. narozeninám T. G. Masaryka, portrét s podpisem prezidenta.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093216.avif": {
+    "stamps": [
+      {
+        "name": "Arras, 1 Kč červená",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 289",
+        "box": [0.054, 0.046, 0.193, 0.135],
+        "description": "K 20. výročí bitvy u Arrasu (1915–1935), pomník čs. dobrovolníků z roty Nazdar. Na stránce jsou 2 kusy; druhý má perfin – firemní děrování písmen.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Arras, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 290",
+        "box": [0.34, 0.041, 0.49, 0.129],
+        "description": "Druhá hodnota emise k výročí bitvy u Arrasu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "M. R. Štefánik, 50 h zelená, čtyřblok",
+        "country": "Československo",
+        "year": "1935",
+        "catalog": "Pofis 291",
+        "box": [0.547, 0.021, 0.745, 0.175],
+        "description": "Známka k výročí úmrtí M. R. Štefánika z 18. 5. 1935, portrét v čepici s nápisem HALÉŘŮ. Čtyřblok s levým okrajem archu, vedle další 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Dětem, 50 + 50 h zelená, svislá dvojice",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 295",
+        "box": [0.54, 0.17, 0.652, 0.391],
+        "description": "Příplatková série Dětem 1936, příplatek 50 h ve prospěch péče o děti. Svislá dvojice s levým okrajem archu a deskovým číslem 1A; vlevo nahoře další trojice s horním okrajem.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Dětem, 2 Kč + 50 h modrá",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 297",
+        "box": [0.652, 0.231, 0.77, 0.335],
+        "description": "Příplatková série Dětem 1936, příplatek 50 h ve prospěch péče o děti. Na stránce jsou 3 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Dětem, 1 Kč + 50 h červená",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 296",
+        "box": [0.284, 0.345, 0.398, 0.456],
+        "description": "Příplatková série Dětem 1936, příplatek 50 h ve prospěch péče o děti. Trojice s horním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "K. H. Mácha, 50 h zelená",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 298",
+        "box": [0.165, 0.404, 0.275, 0.516],
+        "description": "Ke 100. výročí úmrtí K. H. Máchy (1836–1936), pomník básníka na Petříně. Rohový kus s deskovým číslem 1A, na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "K. H. Mácha, 1 Kč červená",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 299",
+        "box": [0.537, 0.397, 0.653, 0.519],
+        "description": "Ke 100. výročí úmrtí K. H. Máchy (1836–1936), pomník básníka na Petříně. Rohový kus s deskovým číslem 1, na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "J. A. Komenský, 40 h modrá, dvojice",
+        "country": "Československo",
+        "year": "1935–1936",
+        "catalog": "Pofis 300",
+        "box": [0.047, 0.544, 0.241, 0.626],
+        "description": "Série Portréty slavných, podobizna Jana Amose Komenského. Vodorovná dvojice s dolním okrajem archu, na stránce jsou další 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "B.I.T. 1937, Beneš 50 h zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 326",
+        "box": [0.471, 0.605, 0.563, 0.686],
+        "description": "Profilová známka Edvard Beneš (Pofis 301) s přetiskem „B.I.T. 1937“ ke konferenci Mezinárodního úřadu práce v Praze.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Edvard Beneš, 50 h zelená",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 301",
+        "box": [0.563, 0.605, 0.655, 0.686],
+        "description": "Série Portréty slavných (Komenský, Beneš, Štefánik, Masaryk), profilový portrét prezidenta Beneše, rytina B. Heinz. Na stránce je přes 10 kusů včetně čtyřbloku a rohových kusů s deskovými čísly 1 a 1A.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Dr. E. Beneš, 50 h zelená, portrét zpředu",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 314",
+        "box": [0.355, 0.738, 0.454, 0.833],
+        "description": "Samostatná známka z roku 1937 s portrétem Beneše zpředu, náklad jen asi 2,2 milionu kusů. Kus s horním okrajem archu. Určení podle seznamu emisí je pravděpodobné, ne zcela jisté.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "M. R. Štefánik, 50 h zelená, čtyřblok",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 346",
+        "box": [0.473, 0.703, 0.677, 0.915],
+        "description": "Výplatní známka z 12. 11. 1938, Štefánik v čepici s hodnotou „50h“ (odlišná od vydání 1935 s nápisem HALÉŘŮ). Na stránce jsou 2 čtyřbloky s dolním okrajem a deskovými čísly 1 a 1A a jeden jednotlivý kus.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093228.avif": {
+    "stamps": [
+      {
+        "name": "M. R. Štefánik, 60 h fialová, čtyřblok",
+        "country": "Československo",
+        "year": "1935–1936",
+        "catalog": "Pofis 302",
+        "box": [0.013, 0.0, 0.252, 0.21],
+        "description": "Série Portréty slavných, Štefánik v čepici. Na stránce jsou 2 čtyřbloky s dolním okrajem a deskovými čísly 1A a 1, další rohové kusy s čísly 1 a 1A a jednotlivý kus.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 1 Kč červená",
+        "country": "Československo",
+        "year": "1935–1936",
+        "catalog": "Pofis 303",
+        "box": [0.526, 0.083, 0.642, 0.2],
+        "description": "Série Portréty slavných, Masaryk v čepici, rytina B. Heinz. Na stránce je přes 15 kusů: čtyřbloky s deskovými čísly 1A a 2 a rohové kusy s čísly 1A a 2A.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 1 K červená, ČESKO-SLOVENSKO, čtyřblok",
+        "country": "Československo",
+        "year": "1939",
+        "catalog": "Pofis 352",
+        "box": [0.239, 0.231, 0.443, 0.41],
+        "description": "Stejná kresba jako 1 Kč z roku 1936, ale s nápisem „ČESKO-SLOVENSKO“ a hodnotou „1 K“. Vyšla 23. 4. 1939 a platila jen v Čechách a na Moravě. Čtyřblok s dolním okrajem archu, na stránce jsou další 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Mukačevo – Palanok, 1,20 Kč fialová",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 304",
+        "box": [0.128, 0.5, 0.334, 0.592],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Na stránce jsou části bloků s okraji archu, označena je horní dvojice.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Banská Bystrica, 1,50 Kč červená",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 305",
+        "box": [0.56, 0.477, 0.661, 0.571],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Rohový kus s deskovým číslem 1; na stránce jsou další 3 kusy včetně dvojice.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "B.I.T. 1937, Banská Bystrica 1,50 Kč červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 327",
+        "box": [0.784, 0.5, 0.878, 0.59],
+        "description": "Známka 1,50 Kč Banská Bystrica s modrým přetiskem „B.I.T. 1937“ ke konferenci Mezinárodního úřadu práce v Praze.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Kutná Hora, 1,60 Kč olivová",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 306",
+        "box": [0.682, 0.756, 0.782, 0.853],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Chrám sv. Barbory. Na stránce jsou velké bloky s meziaršími a deskovým číslem 1A; označen je jednotlivý kus s dolním okrajem.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093243.avif": {
+    "stamps": [
+      {
+        "name": "Kutná Hora, 1,60 Kč olivová",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 306",
+        "box": [0.138, 0.037, 0.331, 0.125],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Na stránce jsou dva velké bloky s meziaršími a deskovým číslem 1; označena je horní dvojice.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Zvíkov, 2 Kč zelená, čtyřblok",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 307",
+        "box": [0.728, 0.018, 0.932, 0.204],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Rohový čtyřblok s deskovým číslem 1A; na stránce jsou další 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "B.I.T. 1937, Zvíkov 2 Kč zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 328",
+        "box": [0.65, 0.23, 0.757, 0.329],
+        "description": "Známka Zvíkov 2 Kč s modrým přetiskem „B.I.T. 1937“ ke konferenci Mezinárodního úřadu práce v Praze.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Strečno, 2,50 Kč modrá",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 308",
+        "box": [0.247, 0.333, 0.355, 0.444],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Na stránce jsou 2 kusy s okraji archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Český ráj, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 309",
+        "box": [0.631, 0.331, 0.734, 0.437],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Na stránce jsou 3 kusy, dva rohové s deskovým číslem 1A.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Slavkov u Brna, 3,50 Kč fialová",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 310",
+        "box": [0.294, 0.463, 0.402, 0.569],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Zámek ve Slavkově, kus s pravým okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Olomouc, 5 Kč zelená",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 312",
+        "box": [0.562, 0.501, 0.682, 0.614],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Sloup Nejsvětější Trojice. Rohový kus s deskovým číslem 1A, na stránce jsou 2 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Lázně Poděbrady, 4 Kč fialová",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 311",
+        "box": [0.701, 0.461, 0.843, 0.571],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Jezdecká socha Jiřího z Poděbrad. Rohový kus s deskovým číslem 1; na stránce jsou 3 kusy.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Bratislava, 10 Kč modrá",
+        "country": "Československo",
+        "year": "1936",
+        "catalog": "Pofis 313",
+        "box": [0.122, 0.708, 0.269, 0.808],
+        "description": "Série Krajiny, hrady a města 1936 (návrh K. Vik, rytina K. Seizinger), rotační ocelotisk. Nejvyšší hodnota série, Bratislavský hrad nad Dunajem. Kus s levým okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Dětem, 50 h + 50 h zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 315",
+        "box": [0.283, 0.748, 0.405, 0.862],
+        "description": "Příplatková série Dětem 1937 podle plastiky Stanislava Suchardy, rytina B. Heinz. Kus s dolním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Dětem, 1 Kč + 50 h červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 316",
+        "box": [0.41, 0.749, 0.542, 0.864],
+        "description": "Příplatková série Dětem 1937 podle plastiky Stanislava Suchardy, rytina B. Heinz. Kus s dolním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Malá dohoda, 2,50 Kč modrá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 321",
+        "box": [0.662, 0.721, 0.756, 0.817],
+        "description": "Emise Malá dohoda (Petite Entente) 1937, Svatovítská katedrála, návrh J. C. Vondrouš. Kus s horním okrajem archu, částečně překrytý.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Československo – dětem, 2 Kč + 1 Kč modrá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 317",
+        "box": [0.069, 0.833, 0.22, 0.95],
+        "description": "Příplatková série Dětem 1937 podle plastiky Stanislava Suchardy, rytina B. Heinz. Na známce je hodnota 2 Kč + 1 Kč; katalogové číslo je pravděpodobné.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      },
+      {
+        "name": "Malá dohoda, 2 Kč zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 320",
+        "box": [0.799, 0.805, 0.898, 0.918],
+        "description": "Emise Malá dohoda (Petite Entente) 1937, Svatovítská katedrála, návrh J. C. Vondrouš. Rohový kus s okraji archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093300.avif": {
+    "stamps": [
+      {
+        "name": "Zborov, 50 h zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 318",
+        "box": [0.058, 0.11, 0.315, 0.22],
+        "description": "K 20. výročí bitvy u Zborova (1917–1937), legionáři s praporem podle sochy J. Vlčka, rytina B. Heinz. Blok s horním okrajem archu (označena horní dvojice) a další jednotlivý kus.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Zborov, 1 Kč červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 319",
+        "box": [0.315, 0.13, 0.438, 0.23],
+        "description": "K 20. výročí bitvy u Zborova (1917–1937), legionáři s praporem podle sochy J. Vlčka, rytina B. Heinz. Na stránce je 6 kusů, z toho blok s horním okrajem archu.",
+        "price": "nepoužitá i razítkovaná orientačně do 50 Kč (cenová hladina Znamky.cz)",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "J. E. Purkyně, 50 h modrozelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 322",
+        "box": [0.063, 0.345, 0.318, 0.473],
+        "description": "Ke 150. výročí narození fyziologa Jana Evangelisty Purkyně (1787–1937), portrét podle O. Španiela, rytina B. Heinz. Známky se tiskly s přítiskovými kupóny se jménem a letopočty, které jsou sběratelsky vyhledávané. Na stránce jsou bloky s horním okrajem archu a několik kusů s levým i pravým kupónem; označena je horní dvojice prvního bloku.",
+        "price": "nepoužitá do 50 Kč za samotnou známku (cenová hladina Znamky.cz); kusy s kupónem bývají dražší",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "J. E. Purkyně, 1 Kč červená, s kupónem",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 323",
+        "box": [0.081, 0.793, 0.352, 0.928],
+        "description": "Ke 150. výročí narození fyziologa Jana Evangelisty Purkyně (1787–1937), portrét podle O. Španiela, rytina B. Heinz. Známky se tiskly s přítiskovými kupóny se jménem a letopočty, které jsou sběratelsky vyhledávané. Na stránce jsou 3 kusy s levým nebo pravým kupónem, jeden s dolním okrajem archu.",
+        "price": "nepoužitá do 50 Kč za samotnou známku (cenová hladina Znamky.cz); kusy s kupónem bývají dražší",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939 s cenovými hladinami",
+            "url": "https://www.znamky.cz/csr?period=1930-1939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093323.avif": {
+    "note": "Stránka s nepoužitými celky z roku 1937 – čtyřbloky, pásky a známky s kupóny z okrajů archů.",
+    "stamps": [
+      {
+        "name": "150. výročí narození J. E. Purkyně, 1 Kč červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 323",
+        "box": [0.03, 0.035, 0.415, 0.335],
+        "description": "Profilový portrét fyziologa Jana Evangelisty Purkyně, rytina B. Heinz. Na stránce je levý dolní rohový čtyřblok se dvěma kupóny „Jan Evangelista Purkyně 1787–1937“ a vodorovná trojice s kupónem vpravo, vše nepoužité.",
+        "price": "nepoužitá série 322–323 kolem 2 Kč; dvojice s kupóny vlevo a vpravo kolem 28 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1937",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1937"
+          },
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Aukro, Pofis 323 s kupónem",
+            "url": "https://aukro.cz/ceskoslovensko-1937-pofis-cs-323-jan-evangelista-purkyne-7071503778"
+          }
+        ]
+      },
+      {
+        "name": "Smuteční T. G. Masaryk, 50 h černá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 324",
+        "box": [0.468, 0.228, 0.672, 0.437],
+        "description": "Vydáno po smrti prezidenta Masaryka (14. 9. 1937), portrét v černé barvě. Na stránce jsou dva čtyřbloky a čtyři jednotlivé kusy; levý dolní rohový čtyřblok má na okraji deskové číslo 6.",
+        "price": "nepoužitá série 324–325 kolem 12 Kč; levý dolní čtyřblok s deskovým číslem kolem 68 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1937",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1937"
+          }
+        ]
+      },
+      {
+        "name": "Smuteční T. G. Masaryk, 2 Kč šedočerná, s kupónem",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis 325",
+        "box": [0.065, 0.443, 0.31, 0.567],
+        "description": "Masaryk v klobouku s datem úmrtí 14. IX. 1937 a faksimile podpisu. Kupón vedle známky nese text „T. G. Masaryk zasloužil se o stát“. Na stránce je mnoho kusů – jednotlivé známky s kupónem, čtyřbloky a krajové celky, vše nepoužité.",
+        "price": "nepoužitá série 324–325 kolem 12 Kč; kus s kupónem o něco dráž (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1937",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1937"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093341.avif": {
+    "note": "Celá stránka patří k vydání Zimní sletové hry 1938 – desítky nepoužitých známek s kupóny se zkříženými lyžemi.",
+    "stamps": [
+      {
+        "name": "Zimní sletové hry, 50 h zelená, s kupónem",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 331",
+        "box": [0.095, 0.022, 0.335, 0.136],
+        "description": "Sokol na skále před štíty Vysokých Tater, nápis „X. všesokolský slet 1938 – zimní hry“. Kupón se zkříženými lyžemi a lipovou ratolestí nese text „Zimní sletové hry 6.–13. II. 1938 Vysoké Tatry“. Na stránce je přes dvacet kusů v dvojicích, čtyřblocích a krajových celcích.",
+        "price": "nepoužitá série 331–332 kolem 4 Kč; čtyřbloky série kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, Zimní sokolské hry 331–332",
+            "url": "https://www.filateliepenkava.cz/detail/13570-znamky-1938-331-332-zimni-sokolske-hry/"
+          },
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      },
+      {
+        "name": "Zimní sletové hry, 1 Kč červená, s kupónem",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 332",
+        "box": [0.61, 0.56, 0.872, 0.684],
+        "description": "Stejný motiv sokola nad Tatrami v červené barvě. Na stránce je pět kusů s kupónem vlevo nebo vpravo, nepoužité.",
+        "price": "nepoužitá série 331–332 kolem 4 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, Zimní sokolské hry 331–332",
+            "url": "https://www.filateliepenkava.cz/detail/13570-znamky-1938-331-332-zimni-sokolske-hry/"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093354.avif": {
+    "stamps": [
+      {
+        "name": "Zimní sletové hry, 1 Kč červená, s kupónem",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 332",
+        "box": [0.06, 0.045, 0.318, 0.258],
+        "description": "Pokračování z předchozí stránky. Na stránce je přes dvacet kusů – svislé dvojice s kupóny, čtyřbloky s horním okrajem a jednotlivé kusy, vše nepoužité.",
+        "price": "nepoužitá série 331–332 kolem 4 Kč; čtyřbloky série kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, Zimní sokolské hry 331–332",
+            "url": "https://www.filateliepenkava.cz/detail/13570-znamky-1938-331-332-zimni-sokolske-hry/"
+          },
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          }
+        ]
+      },
+      {
+        "name": "Dětem 1938, 50 h + 50 h zelená, s kupónem",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 333",
+        "box": [0.585, 0.485, 0.858, 0.58],
+        "description": "Dobročinná známka s příplatkem pro děti: Masaryk s holčičkou v kroji a heslo „Měj úctu k duši dítěte“. Kupón s vavřínovým věncem a textem „TGM 7. III. 1938“ připomíná prezidentovy nedožité 88. narozeniny. Na stránce je šest kusů, tři s kupónem.",
+        "price": "nepoužitá série 333–334 kolem 6 Kč; s kupóny vlevo a vpravo kolem 88 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      },
+      {
+        "name": "Dětem 1938, 1 Kč + 50 h červená, s kupónem",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 334",
+        "box": [0.058, 0.68, 0.328, 0.81],
+        "description": "Stejný motiv v červené barvě. Na stránce je sedm kusů, dva s kupónem „TGM 7. III. 1938“, nepoužité.",
+        "price": "nepoužitá série 333–334 kolem 6 Kč; s kupóny vlevo a vpravo kolem 88 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093408.avif": {
+    "stamps": [
+      {
+        "name": "20. výročí bojů čs. legií – Bachmač, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 336",
+        "box": [0.035, 0.063, 0.4, 0.29],
+        "description": "Legionáři v boji u Bachmače na Ukrajině (březen 1918). Kupón se zkříženými puškami nese text „Bachmač 1918–1938“. Na stránce je přes dvacet nepoužitých kusů v blocích a s kupóny.",
+        "price": "nepoužitá série 336–338 jako čtyřbloky nebo s kupóny kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      },
+      {
+        "name": "20. výročí bojů čs. legií – Vouziers, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 337",
+        "box": [0.035, 0.7, 0.297, 0.96],
+        "description": "Legionáři ve Francii u Vouziers (říjen 1918). Kupón s přilbou nese text „Československá legie ve Francii 1918–1938 – Vouziers, Terron sur Aisne, Chestres, Vandy“. Na stránce jsou tři bloky s horním okrajem a kupóny a další kusy, nepoužité.",
+        "price": "nepoužitá série 336–338 jako čtyřbloky nebo s kupóny kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093423.avif": {
+    "stamps": [
+      {
+        "name": "20. výročí bojů čs. legií – Vouziers, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 337",
+        "box": [0.34, 0.05, 0.59, 0.27],
+        "description": "Pokračování z předchozí stránky. Na stránce je kolem dvaceti nepoužitých kusů ve svislých dvojicích s kupóny a v blocích s horním okrajem.",
+        "price": "nepoužitá série 336–338 jako čtyřbloky nebo s kupóny kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          }
+        ]
+      },
+      {
+        "name": "20. výročí bojů čs. legií – Doss Alto, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 338",
+        "box": [0.648, 0.495, 0.912, 0.625],
+        "description": "Legionář na hoře Doss Alto v Itálii (září 1918). Kupón s přilbou a vavřínem nese text „Československá legie v Itálii 1918–1938 – Piave, Val Bella, Cima Tre Pezzi, Doss Alto“. Na stránce je kolem patnácti nepoužitých kusů.",
+        "price": "nepoužitá série 336–338 jako čtyřbloky nebo s kupóny kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093439.avif": {
+    "stamps": [
+      {
+        "name": "20. výročí bojů čs. legií – Doss Alto, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 338",
+        "box": [0.63, 0.048, 0.885, 0.272],
+        "description": "Pokračování z předchozí stránky. Na stránce je kolem patnácti nepoužitých kusů – svislá dvojice s kupóny, bloky s horním okrajem a vodorovná trojice.",
+        "price": "nepoužitá série 336–338 jako čtyřbloky nebo s kupóny kolem 38 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          }
+        ]
+      },
+      {
+        "name": "X. všesokolský slet v Praze – Jindřich Fügner, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 339",
+        "box": [0.612, 0.368, 0.87, 0.6],
+        "description": "Portrét spoluzakladatele Sokola Jindřicha Fügnera, kresba M. Švabinský, rytina B. Heinz. Kupón se sokolem nad písmenem X nese text „Všesokolský slet v Praze 1938“. Na stránce je přes dvacet nepoužitých kusů v blocích s kupóny.",
+        "price": "nepoužitá série 339–341 s kupóny vlevo a vpravo kolem 20 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093454.avif": {
+    "stamps": [
+      {
+        "name": "X. všesokolský slet v Praze – Jindřich Fügner, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 339",
+        "box": [0.035, 0.088, 0.3, 0.402],
+        "description": "Pokračování z předchozí stránky; vlevo nahoře svislá trojice s kupóny. Na stránce je kolem třiceti nepoužitých kusů včetně jednotlivé známky bez kupónu.",
+        "price": "nepoužitá série 339–341 s kupóny vlevo a vpravo kolem 20 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          }
+        ]
+      },
+      {
+        "name": "X. všesokolský slet v Praze – Jindřich Fügner, 1 Kč červená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 340",
+        "box": [0.44, 0.622, 0.728, 0.895],
+        "description": "Stejný portrét Fügnera v červené barvě. Na stránce je svislá dvojice s kupóny a dolním okrajem, čtyřblok s kupóny a další kusy, nepoužité.",
+        "price": "nepoužitá série 339–341 s kupóny vlevo a vpravo kolem 20 Kč (přibližně)",
+        "sources": [
+          {
+            "title": "Filatelie Pěnkava, katalog ČSR I",
+            "url": "https://www.filateliepenkava.cz/katalog/csr-I/znamky/?sort=&perpage=300&display=table"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093512.avif": {
+    "note": "Celá stránka je zaplněná jednou známkou – 1 Kč Fügner z X. všesokolského sletu 1938 – v blocích, pásech a rohových kusech s okrajem archu, většinou s kupóny.",
+    "stamps": [
+      {
+        "name": "Jindřich Fügner, 1 Kč červená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 340",
+        "box": [0.045, 0.09, 0.283, 0.308],
+        "description": "Příležitostná známka k X. všesokolskému sletu v Praze, portrét spoluzakladatele Sokola Jindřicha Fügnera, rotační ocelotisk, rytec B. Heinz. Na stránce je přes 40 nepoužitých kusů v blocích a pásech, většinou spojených s kupónem (sokol nad písmenem X, „Všesokolský slet v Praze 1938“) vlevo i vpravo, některé s okrajem archu.",
+        "price": "nepoužitá kolem 1 Kč za kus; série 50 h–2 Kč s levými a pravými kupóny kolem 40 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 340",
+            "url": "https://www.infofila.cz/x-vsesokolsky-slet-v-praze-1-kc-cerena-s-3-d-1-id-667-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          },
+          {
+            "title": "Alphabetilately, Sokol 1938 (archy se 12 kupóny)",
+            "url": "https://alphabetilately.org/Sokol/1938.html"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093527.avif": {
+    "stamps": [
+      {
+        "name": "Jindřich Fügner, 1 Kč červená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 340",
+        "box": [0.054, 0.069, 0.281, 0.31],
+        "description": "X. všesokolský slet v Praze 1938. Na stránce jsou dva horní rohové bloky s okrajem archu a kupónem se sokolem.",
+        "price": "nepoužitá kolem 1 Kč za kus; s kupónem dražší",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 340",
+            "url": "https://www.infofila.cz/x-vsesokolsky-slet-v-praze-1-kc-cerena-s-3-d-1-id-667-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          }
+        ]
+      },
+      {
+        "name": "Jindřich Fügner, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 341",
+        "box": [0.54, 0.07, 0.786, 0.306],
+        "description": "Nejvyšší hodnota sletové série, tmavě modrošedý ocelotisk (náklad 5,47 milionu). Na stránce je přes 20 nepoužitých kusů v blocích s horním okrajem archu a ve spojkách s kupónem.",
+        "price": "nepoužitá kolem 2 Kč za kus; kupónové spojky dražší",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 341",
+            "url": "https://www.infofila.cz/x-vsesokolsky-slet-v-praze-2-kc-modra-s-3-d-1-id-668-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          }
+        ]
+      },
+      {
+        "name": "Košice, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 345",
+        "box": [0.341, 0.617, 0.451, 0.713],
+        "description": "Vydáno k výstavám v Plzni a Košicích, na známce košický dóm sv. Alžběty (návrh K. Vik, rytec K. Seizinger). Na stránce jsou bloky s kupóny s vinným hroznem (meziarší) a rohový čtyřblok s okrajem.",
+        "price": "nepoužitá kolem 1 Kč; Plzeň + Košice s kupóny kolem 19 Kč, meziarší kolem 15 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 345",
+            "url": "http://www.infofila.cz/new/vystava-v-plzni-a-kosicich-kosice-s-3-d-1-id-673-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093544.avif": {
+    "stamps": [
+      {
+        "name": "Košice, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 345",
+        "box": [0.067, 0.05, 0.433, 0.138],
+        "description": "Dvě vodorovné spojky známka – kupón s vinným hroznem – známka (meziarší). Vpravo dole jsou ještě dva samostatné kusy, nejspíš razítkované.",
+        "price": "nepoužitá kolem 1 Kč; meziarší kolem 15 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 345",
+            "url": "http://www.infofila.cz/new/vystava-v-plzni-a-kosicich-kosice-s-3-d-1-id-673-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, meziarší Pofis 344–345",
+            "url": "https://www.sbiram.cz/1938--50h-plzen-a-kosice--meziarsi--nr-344-5m--/"
+          }
+        ]
+      },
+      {
+        "name": "Plzeň, 50 h zelená",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 344",
+        "box": [0.073, 0.156, 0.446, 0.227],
+        "description": "Pohled na průmyslovou Plzeň s komíny Škodových závodů (návrh V. Silovský, rytec K. Seizinger), náklad téměř 52 milionů. Na stránce jsou desítky nepoužitých kusů v blocích s dolním okrajem archu a v meziarších s kupónem (ozubené kolo s chmelem).",
+        "price": "nepoužitá kolem 1 Kč, razítkovaná 0,50 Kč; meziarší kolem 15 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 344",
+            "url": "https://www.infofila.cz/vystava-v-plzni-a-kosicich-plzen-s-3-d-1-id-672-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, meziarší Pofis 344–345",
+            "url": "https://www.sbiram.cz/1938--50h-plzen-a-kosice--meziarsi--nr-344-5m--/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093558.avif": {
+    "stamps": [
+      {
+        "name": "20. výročí republiky, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 349",
+        "box": [0.191, 0.015, 0.305, 0.121],
+        "description": "Alegorie Republiky podle Maxe Švabinského, v pozadí chrám sv. Víta a sv. Mikuláše, rytec B. Heinz. Na stránce je asi 15 nepoužitých kusů s okraji archu, dvojice a rohové bloky.",
+        "price": "nepoužitá kolem 2 Kč; série 2–3 Kč kolem 6 Kč, s kupóny kolem 49 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 349",
+            "url": "http://www.infofila.cz/new/20-vyroci-vzniku-prvnich-cs-znamek-3-kc-hneda-s-3-d-1-id-677-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          }
+        ]
+      },
+      {
+        "name": "20. výročí republiky, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1938",
+        "catalog": "Pofis 348",
+        "box": [0.621, 0.321, 0.735, 0.438],
+        "description": "Stejná kresba jako 3 Kč, archová známka (tmavší 2 Kč ultramarín Pofis 347 pochází z aršíku). Na stránce je asi 12 nepoužitých kusů s okraji archu a horní rohové bloky.",
+        "price": "nepoužitá kolem 2 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, ročník 1938",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1938"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093615.avif": {
+    "stamps": [
+      {
+        "name": "Letecká, dvojplošník, 2 Kč zelená",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L9",
+        "box": [0.075, 0.003, 0.371, 0.1],
+        "description": "Definitivní letecké vydání 1930, fotomontáž letadla nad krajinou, rytec K. Seizinger. Dvojice s dolním okrajem a další kus, celkem 3 nepoužité.",
+        "price": "nepoužitá kolem 3 Kč; série L7–L15 nepoužitá kolem 300 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis L9",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Sbírám.cz, letecké 1920–1930",
+            "url": "https://www.sbiram.cz/letecke-1920-1930/"
+          },
+          {
+            "title": "Burda Auction, letecké 1930",
+            "url": "https://www.burda-auction.com/cz/aukce-72/show/3362/filatelie-csr-i-letecke-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, dvojplošník, 3 Kč fialová",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L10",
+        "box": [0.532, 0.048, 0.686, 0.129],
+        "description": "Na stránce jsou 3 nepoužité kusy, jeden s okrajem archu. Hodnota existuje ve třech typech, které rozlišují specialisté.",
+        "price": "nepoužitá kolem 20 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Sbírám.cz, letecké 1920–1930",
+            "url": "https://www.sbiram.cz/letecke-1920-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, dvojplošník, 4 Kč modrošedá",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L11",
+        "box": [0.228, 0.126, 0.374, 0.21],
+        "description": "Nejnižší náklad série (262 500 kusů). Na stránce jsou 3 kusy; ten vpravo s okrajem archu je výrazně světlejší modrý – pravděpodobně jiný odstín nebo typ.",
+        "price": "nepoužitá kolem 5 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Sbírám.cz, letecké 1920–1930",
+            "url": "https://www.sbiram.cz/letecke-1920-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, dvojplošník, 5 Kč hnědá",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L12",
+        "box": [0.052, 0.254, 0.22, 0.349],
+        "description": "Na stránce jsou 3 nepoužité kusy, jeden rohový s okrajem archu a barevnými pruhy. Existuje i tmavší odstín (L12a).",
+        "price": "nepoužitá kolem 20 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Sbírám.cz, letecké 1920–1930",
+            "url": "https://www.sbiram.cz/letecke-1920-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, letadlo nad Prahou, 10 Kč modrá",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L13",
+        "box": [0.074, 0.371, 0.222, 0.462],
+        "description": "Jednoplošník nad Pražským hradem a Karlovým mostem, vlevo státní znak. Nejdražší hodnota série v nepoužitém stavu.",
+        "price": "nepoužitá kolem 100 Kč, razítkovaná kolem 30 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Burda Auction, letecké 1930",
+            "url": "https://www.burda-auction.com/cz/aukce-72/show/3362/filatelie-csr-i-letecke-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, letadlo nad Prahou, 20 Kč šedofialová",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L14",
+        "box": [0.373, 0.371, 0.531, 0.462],
+        "description": "Stejná kresba jako 10 Kč. Na stránce jsou 2 nepoužité kusy s okrajem archu, jeden s barevnými pruhy na okraji.",
+        "price": "nepoužitá kolem 40 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Sbírám.cz, letecké 1920–1930",
+            "url": "https://www.sbiram.cz/letecke-1920-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, 30 h fialová, „Česko-Slovensko“",
+        "country": "Československo",
+        "year": "1939",
+        "catalog": "Pofis L15",
+        "box": [0.091, 0.495, 0.192, 0.578],
+        "description": "Kresba 50 h s opravenou hodnotou a rozděleným názvem státu, vydaná až po okupaci 22. 4. 1939 a platná jen do 15. 12. 1939. Na stránce je 11 nepoužitých kusů, z toho dvojice a trojice s okrajem.",
+        "price": "nepoužitá kolem 0,50 Kč, razítkovaná kolem 5 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Burda Auction, letecké 1930",
+            "url": "https://www.burda-auction.com/cz/aukce-72/show/3362/filatelie-csr-i-letecke-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, 50 h zelená",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L7",
+        "box": [0.673, 0.493, 0.781, 0.578],
+        "description": "Nejnižší hodnota série 1930, letadlo nad polní krajinou. Na stránce jsou 3 nepoužité kusy, jeden s okrajem a barevnými pruhy.",
+        "price": "nepoužitá kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          },
+          {
+            "title": "Burda Auction, letecké 1930",
+            "url": "https://www.burda-auction.com/cz/aukce-72/show/3362/filatelie-csr-i-letecke-1930/"
+          }
+        ]
+      },
+      {
+        "name": "Letecká, 1 Kč červená",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis L8",
+        "box": [0.176, 0.608, 0.273, 0.693],
+        "description": "Na stránce jsou 3 nepoužité kusy, jeden s okrajem archu a červenými pruhy.",
+        "price": "nepoužitá kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, letecké",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-2-1918"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 60 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL61",
+        "box": [0.655, 0.575, 0.791, 0.665],
+        "description": "Definitivní doplatní vydání 1928 (návrh J. Vlček, knihtisk), číslice v ornamentálním rámu a nápis DOPLATNÉ. Na stránce jsou 2 nepoužité kusy, jeden s dolním okrajem.",
+        "price": "nepoužitá kolem 1 Kč; celá série DL55–66 nepoužitá kolem 200 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, doplatní",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-7-0"
+          },
+          {
+            "title": "Sbírám.cz, doplatní",
+            "url": "https://www.sbiram.cz/doplatni/"
+          }
+        ]
+      },
+      {
+        "name": "Doruční, 50 h modrá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis DR1",
+        "box": [0.105, 0.69, 0.274, 0.802],
+        "description": "Trojúhelníková doruční známka (hlubotisk, návrh V. Čuban). Na stránce jsou dvě dvojice v obráceném postavení s okrajem archu.",
+        "price": "nepoužitá kolem 1 Kč; DR1–2 nepoužité kolem 10 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, doruční",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-6-0"
+          },
+          {
+            "title": "Sbírám.cz, spěšné a doruční",
+            "url": "https://www.sbiram.cz/spesne--dorucni--o-t/"
+          }
+        ]
+      },
+      {
+        "name": "Doruční, 50 h červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis DR2",
+        "box": [0.528, 0.69, 0.692, 0.802],
+        "description": "Červená varianta doruční známky. Na stránce jsou dvě dvojice v obráceném postavení s okrajem archu.",
+        "price": "nepoužitá kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, doruční",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-6-0"
+          },
+          {
+            "title": "Sbírám.cz, spěšné a doruční",
+            "url": "https://www.sbiram.cz/spesne--dorucni--o-t/"
+          }
+        ]
+      },
+      {
+        "name": "Otvorenie slovenského snemu, 300 h na 10 Kč",
+        "country": "Československo",
+        "year": "1939",
+        "catalog": "Pofis 350",
+        "box": [0.624, 0.842, 0.777, 0.964],
+        "description": "Červený přetisk na známce 10 Kč Bratislava k otevření slovenského sněmu 18. 1. 1939, náklad 790 000. Na stránce jsou 2 nepoužité kusy; přetisk existuje ve dvou typech.",
+        "price": "nepoužitá kolem 4–6 Kč; dvojice typů I a II kolem 19 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis 350",
+            "url": "http://www.infofila.cz/new/otevreni-slovenskeho-zemskeho-snemu-s-3-d-1-id-678-cenik-znamek"
+          },
+          {
+            "title": "Sbírám.cz, vydání 1926–1939",
+            "url": "https://www.sbiram.cz/vydani-1926-1939/strana-2/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093631.avif": {
+    "note": "Novinové známky Holubice z roku 1937 (návrh J. Benda, knihtisk, nezoubkované) – kompletní řada 2 h až 1 Kč v nepoužitých čtyřblocích, často s okrajem archu.",
+    "stamps": [
+      {
+        "name": "Novinová Holubice, 2 h žlutohnědá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV14",
+        "box": [0.108, 0.059, 0.204, 0.135],
+        "description": "Dva čtyřbloky s okrajem archu a čárou na okraji.",
+        "price": "nepoužitá kolem 0,50 Kč; série NV14–22 razítkovaná kolem 20 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          },
+          {
+            "title": "Sbírám.cz, novinové",
+            "url": "https://www.sbiram.cz/novinove-2/"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 5 h modrá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV15",
+        "box": [0.625, 0.056, 0.721, 0.131],
+        "description": "Nejběžnější hodnota (náklad přes 445 milionů). Na stránce jsou dva čtyřbloky.",
+        "price": "nepoužitá kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 5 h modrá, se zoubkováním",
+        "country": "Československo",
+        "year": "1937",
+        "box": [0.841, 0.056, 0.941, 0.149],
+        "description": "Novinové známky se vydávaly nezoubkované; tento kus má zoubkování, pravděpodobně soukromé (firmy si je zoubkovaly pro snazší oddělování). Taková zoubkování a průpichy jsou samostatnou sběratelskou specializací.",
+        "price": "cena nedohledána",
+        "sources": [
+          {
+            "title": "Burda Auction, novinové – soukromé zoubkování",
+            "url": "https://www.burda-auction.com/cz/pisemna-aukce-29/show/1401/filatelie-csr-i-novinove/"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 7 h oranžovočervená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV16",
+        "box": [0.377, 0.181, 0.464, 0.26],
+        "description": "Dva čtyřbloky s okrajem a dva samostatné kusy vpravo.",
+        "price": "nepoužitá kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 9 h zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV17",
+        "box": [0.101, 0.31, 0.2, 0.385],
+        "description": "Dva čtyřbloky s okrajem archu a jeden samostatný kus vpravo.",
+        "price": "nepoužitá kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 10 h červenohnědá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV18",
+        "box": [0.59, 0.298, 0.688, 0.382],
+        "description": "Dva čtyřbloky ve dvou zřetelně odlišných odstínech – tmavě červenohnědém a světlejším červeném.",
+        "price": "nepoužitá kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Pofis NV18",
+            "url": "https://infofila.cz/novinove-holubice-10-h-cervena-s-3-d-4-id-724-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 12 h modrá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV19",
+        "box": [0.378, 0.44, 0.488, 0.525],
+        "description": "Dva čtyřbloky s okrajem archu.",
+        "price": "nepoužitá kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 20 h zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV20",
+        "box": [0.08, 0.573, 0.184, 0.666],
+        "description": "Dva čtyřbloky s okrajem archu.",
+        "price": "nepoužitá kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 50 h hnědá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV21",
+        "box": [0.62, 0.57, 0.718, 0.654],
+        "description": "Dva čtyřbloky; dolní rohový má deskové číslo 37 na okraji.",
+        "price": "nepoužitá kolem 0,50 Kč; rohové bloky s DČ dražší",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          },
+          {
+            "title": "Burda Auction, novinové",
+            "url": "https://www.burda-auction.com/cz/pisemna-aukce-29/show/1401/filatelie-csr-i-novinove/"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 1 Kč šedá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV22",
+        "box": [0.333, 0.709, 0.437, 0.797],
+        "description": "Nejvyšší hodnota s nejnižším nákladem (7,38 milionu). Dva dolní rohové čtyřbloky s deskovými čísly 2 a 37.",
+        "price": "nepoužitá kolem 1 Kč; rohové bloky s DČ dražší",
+        "sources": [
+          {
+            "title": "Infofila.cz, novinové",
+            "url": "https://infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-4-0"
+          },
+          {
+            "title": "Burda Auction, novinové",
+            "url": "https://www.burda-auction.com/cz/pisemna-aukce-29/show/1401/filatelie-csr-i-novinove/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-093655.avif": {
+    "note": "Deska alba s vloženým ručně psaným lístkem: „Známky od vzniku ČSR do okupace, seřazené dle katalogu POFISu 1973(?), od r. 1934 kompletní, od r. 1936 několikanásobné.“",
+    "stamps": []
+  }
+}

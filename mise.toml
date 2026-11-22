@@ -1,0 +1,42 @@
+[tools]
+bun = "1.4.5"
+git-lfs = "3.8.1"
+
+# ── Photos (AVIF: full and display sizes in Git LFS, thumbs and highlights in git) ─
+
+[tasks."photos:derive"]
+description = "Make the web thumbnails, display images and albums.json from web/public/photos/full/"
+run = "bun run derive"
+dir = "web"
+depends = ["web:install"]
+
+# ── Web app tasks (Vite + Svelte in web/, run with Bun) ──────────
+
+[tasks."web:install"]
+description = "Install the album viewer dependencies (from bun.lock)"
+run = "bun install --frozen-lockfile"
+dir = "web"
+
+[tasks."web:dev"]
+description = "Start the album viewer dev server with hot reload"
+run = "bun run dev"
+dir = "web"
+depends = ["web:install"]
+
+[tasks."web:check"]
+description = "Type-check the album viewer (svelte-check + tsc)"
+run = "bun run check"
+dir = "web"
+depends = ["web:install"]
+
+[tasks."web:test"]
+description = "Run the album viewer tests (Vitest)"
+run = "bun run test"
+dir = "web"
+depends = ["web:install"]
+
+[tasks."web:build"]
+description = "Build the album viewer to web/dist/"
+run = "bun run build"
+dir = "web"
+depends = ["web:check"]
