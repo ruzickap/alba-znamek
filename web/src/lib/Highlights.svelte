@@ -1,5 +1,6 @@
 <script lang="ts">
   import type { Album } from "./albums";
+  import { stampMeta } from "./albums";
   import highlights from "./highlights.json";
   import { routeHash } from "./route";
 
@@ -54,9 +55,7 @@
               <span class="rank" aria-hidden="true">{i + 1}</span>
               {stamp.name}
             </h3>
-            <p class="meta">
-              {stamp.country}, {stamp.year}{#if stamp.catalog}, katalog {stamp.catalog}{/if}
-            </p>
+            <p class="meta">{stampMeta(stamp)}</p>
             <p class="value">{stamp.value}</p>
             <p>{stamp.why}</p>
             <a

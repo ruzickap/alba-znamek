@@ -1,5 +1,6 @@
 <script lang="ts">
   import type { PageStamps, Photo } from "./albums";
+  import { stampMeta } from "./albums";
   import StampCrop from "./StampCrop.svelte";
 
   // `src` is the page image the stamp crops are cut from
@@ -27,9 +28,7 @@
         </div>
         <div class="text">
           <h3>{stamp.name}</h3>
-          <p class="meta">
-            {stamp.country}, {stamp.year}{#if stamp.catalog}, katalog {stamp.catalog}{/if}
-          </p>
+          <p class="meta">{stampMeta(stamp)}</p>
           <p>{stamp.description}</p>
           <p class="price">Cena: {stamp.price}</p>
           {#if stamp.sources.length}

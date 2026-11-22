@@ -37,13 +37,13 @@ of photographed stamp album pages. No backend: the album list is
 `mise` is the task runner and tool manager (`mise.toml`); `mise install`
 gets Bun and Git LFS.
 
-| Command                  | What it does                                  |
-|--------------------------|-----------------------------------------------|
-| `mise run web:dev`       | Dev server with hot reload                    |
-| `mise run web:test`      | Tests (Vitest + Testing Library, jsdom)       |
-| `mise run web:check`     | svelte-check + tsc                            |
-| `mise run web:build`     | Type-check + build to `web/dist/`             |
-| `mise run photos:derive` | Web sizes + `albums.json` from `full/`        |
+| Command                  | What it does                            |
+|--------------------------|-----------------------------------------|
+| `mise run web:dev`       | Dev server with hot reload              |
+| `mise run web:test`      | Tests (Vitest + Testing Library, jsdom) |
+| `mise run web:check`     | svelte-check + tsc                      |
+| `mise run web:build`     | Type-check + build to `web/dist/`       |
+| `mise run photos:derive` | Web sizes + `albums.json` from `full/`  |
 
 ### Verifying changes
 

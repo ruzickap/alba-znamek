@@ -12,9 +12,9 @@ AVIF.
 ## Usage
 
 ```bash
-mise install          # Bun and Git LFS at pinned versions
-git lfs pull          # full-size and display photos (~0.9 GB)
-mise run web:dev      # dev server with hot reload
+mise install     # Bun and Git LFS at pinned versions
+git lfs pull     # full-size and display photos (~0.9 GB)
+mise run web:dev # dev server with hot reload
 ```
 
 AI agent skills (`.agents/skills/`, not committed) are installed with

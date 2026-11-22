@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { albumFacts, albumsLabel, pagesLabel } from "./albums";
+import { albumFacts, albumsLabel, pagesLabel, stampMeta } from "./albums";
 import { parseRoute, routeHash } from "./route";
 import { centerOn, stampAt } from "./zoom";
 
@@ -50,6 +50,17 @@ describe("pagesLabel / albumsLabel", () => {
     [10, "10 alb"],
   ])("%i albums", (count, label) => {
     expect(albumsLabel(count)).toBe(label);
+  });
+});
+
+describe("stampMeta", () => {
+  it("adds the catalogue number only when known", () => {
+    expect(
+      stampMeta({ country: "Rakousko", year: "1850", catalog: "Mi. 1" }),
+    ).toBe("Rakousko, 1850, katalog Mi. 1");
+    expect(stampMeta({ country: "Rakousko", year: "1850" })).toBe(
+      "Rakousko, 1850",
+    );
   });
 });
 

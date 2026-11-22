@@ -58,6 +58,14 @@ export const pagesLabel = (count: number) =>
 export const albumsLabel = (count: number) =>
   plural(count, "album", "alba", "alb");
 
+// "Rakousko, 1850, katalog Mi. 1"
+export const stampMeta = ({
+  country,
+  year,
+  catalog,
+}: Pick<Stamp, "country" | "year" | "catalog">) =>
+  `${country}, ${year}${catalog ? `, katalog ${catalog}` : ""}`;
+
 export type AlbumFacts = {
   stamps: number;
   years?: [number, number];

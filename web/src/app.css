@@ -7,8 +7,8 @@
   --muted: #a3aea6;
   --gilt: #cfae5e;
   --serif:
-    Baskerville, "Baskerville Old Face", "Iowan Old Style", "Palatino Linotype",
-    Palatino, Georgia, serif;
+    "Baskerville", "Baskerville Old Face", "Iowan Old Style",
+    "Palatino Linotype", "Palatino", "Georgia", serif;
 
   color-scheme: dark;
 }
