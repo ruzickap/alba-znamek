@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Vite build output
+web/dist/
+
+# Playwright CLI snapshots and screenshots
+.playwright-cli/
+
+# pre-commit configuration file
+.pre-commit-config.yaml
+
+# Lychee link checker cache
+.lycheecache

@@ -1,0 +1,2799 @@
+{
+  "20261121-104049.avif": {
+    "note": "Albová strana 8 – Hradčany stříhané (nezoubkované) 1918–1920. Část známek je vlepena mimo předtištěná políčka, některé až na levém okraji listu; u modrozelené 20 h na okraji je tužkou poznámka \"vada\".",
+    "stamps": [
+      {
+        "name": "Hradčany, 10 h červená, dvojice",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis 5",
+        "box": [0.193, 0.052, 0.436, 0.138],
+        "description": "Nezoubkovaná vodorovná dvojice z první emise Hradčany podle návrhu Alfonse Muchy (typ A, bílé nápisy po stranách). Přes obě známky je denní razítko s datem 11. VI. 1919. Na stránce jsou ještě další tři jednotlivé kusy 10 h.",
+        "price": "razítkovaný kus kolem 0,50 Kč (katalog), dvojice o něco víc",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 10 h červená",
+            "url": "https://infofila.cz/hradcany-10-h-cervena-s-3-d-1-id-387-cenik-znamek"
+          },
+          {
+            "title": "Wikipedie, Hradčany (poštovní známky)",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dany_(po%C5%A1tovn%C3%AD_zn%C3%A1mky)"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 5 h světle zelená",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis 3",
+        "box": [0.596, 0.046, 0.729, 0.136],
+        "description": "Jedna z prvních tří hodnot, vydaná 18. 12. 1918, typ A. Na stránce jsou dva kusy, druhý s částí denního razítka.",
+        "price": "razítkovaná kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 5 h světle zelená",
+            "url": "https://infofila.cz/hradcany-5-h-svetle-zelena-s-3-d-1-id-385-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 20 h modrozelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 8",
+        "box": [0.742, 0.041, 0.874, 0.129],
+        "description": "Typ A s bílými nápisy po stranách. Na stránce je pět kusů v různých odstínech; kus na levém okraji má tužkou poznámku \"vada\".",
+        "price": "razítkovaná kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 20 h modrozelená",
+            "url": "https://infofila.cz/hradcany-20-h-modrozelena-s-3-d-1-id-390-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 3 h fialová",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis 2",
+        "box": [0.438, 0.131, 0.578, 0.226],
+        "description": "Nejnižší hodnota typu A, vydaná 21. 12. 1918; katalog Scott ji vede jako první československou známku. Červenofialový odstín, část razítka vpravo dole.",
+        "price": "razítkovaná kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 3 h fialová",
+            "url": "https://infofila.cz/hradcany-3-h-fialova-s-3-d-1-id-384-cenik-znamek"
+          },
+          {
+            "title": "Wikipedie, Hradčany (poštovní známky)",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dany_(po%C5%A1tovn%C3%AD_zn%C3%A1mky)"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 25 h modrá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 10",
+        "box": [0.196, 0.348, 0.337, 0.443],
+        "description": "Typ A. Kus nese výrazné kruhové razítko PRAHA. Na stránce jsou dva kusy.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 25 h modrá",
+            "url": "https://infofila.cz/hradcany-25-h-modra-s-3-d-1-id-391-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 30 h žlutá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 12",
+        "box": [0.674, 0.35, 0.814, 0.444],
+        "description": "Typ A v žlutoolivovém odstínu. Denní razítko s datem 1. IV. 1919, místo jen částečně čitelné (…BEN…).",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 30 h žlutá",
+            "url": "https://infofila.cz/hradcany-30-h-zluta-s-3-d-1-id-392-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 40 h oranžová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 14",
+        "box": [0.193, 0.457, 0.334, 0.553],
+        "description": "Poslední hodnota typu A. Na stránce jsou dva kusy; druhý, v odstínu do červena, je s dolním okrajem archu a okrajovou číslicí \"40'-\" (počitadlo).",
+        "price": "razítkovaná kolem 1 Kč; kus s okrajem a počitadlem víc",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 40 h oranžová",
+            "url": "https://infofila.cz/hradcany-40-h-oranzova-s-3-d-1-id-394-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 50 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 15",
+        "box": [0.351, 0.459, 0.496, 0.554],
+        "description": "Typ C – velký bílý nápis ČESKO-SLOVENSKA pod obrazem Hradu. Na stránce jsou dva kusy, druhý vlepený na levém okraji listu.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 50 h fialová",
+            "url": "https://infofila.cz/hradcany-50-h-fialova-s-3-d-1-id-395-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 100 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 20",
+        "box": [0.508, 0.572, 0.641, 0.666],
+        "description": "Typ B – malé barevné nápisy na bílém podkladě po stranách. Na stránce jsou tři kusy v různých odstínech; jeden je s dolním okrajem archu a počitadlem \"10'-\".",
+        "price": "razítkovaná kolem 2 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 100 h hnědá",
+            "url": "https://infofila.cz/hradcany-100-h-hneda-s-3-d-1-id-400-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 200 h ultramarínová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 22",
+        "box": [0.832, 0.575, 0.977, 0.672],
+        "description": "Typ B. Na stránce jsou dva kusy, druhý ve světlejším fialovomodrém odstínu; papír prvního kusu je na okrajích zažloutlý.",
+        "price": "razítkovaná kolem 2 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 200 h ultramarínová",
+            "url": "https://infofila.cz/hradcany-200-h-ultramarinova-s-3-d-1-id-402-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 400 h modrofialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 24",
+        "box": [0.506, 0.684, 0.649, 0.784],
+        "description": "Nejvyšší hodnota typu B. Na stránce jsou dva kusy; druhý nese dvojjazyčné razítko …HOHENELBE (Vrchlabí).",
+        "price": "razítkovaná kolem 5 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 400 h modrofialová",
+            "url": "https://infofila.cz/hradcany-400-h-modrofialova-s-3-d-1-id-404-cenik-znamek"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104105.avif": {
+    "note": "Prázdná stránka bez předtisku (rub listu), na kterou sběratel vlepil další nezoubkované Hradčany typů C a D.",
+    "stamps": [
+      {
+        "name": "Hradčany, 1 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 1",
+        "box": [0.247, 0.045, 0.515, 0.171],
+        "description": "Nejnižší hodnota série, typ C s velkým bílým nápisem ČESKO-SLOVENSKA. Tmavě hnědý odstín, slabé razítko vlevo.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 1 h hnědá",
+            "url": "https://infofila.cz/hradcany-1-h-hneda-s-3-d-1-id-383-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 50 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 15",
+        "box": [0.23, 0.168, 0.487, 0.3],
+        "description": "Typ C, nezoubkovaná. Tmavě fialový odstín s razítkem v dolní části.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 50 h fialová",
+            "url": "https://infofila.cz/hradcany-50-h-fialova-s-3-d-1-id-395-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 60 h žlutooranžová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 17",
+        "box": [0.47, 0.172, 0.738, 0.295],
+        "description": "Typ D – velký bílý nápis, za Hradem už není slunce, jen záře. Razítko v horní části.",
+        "price": "razítkovaná kolem 2 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 60 h žlutooranžová",
+            "url": "https://infofila.cz/hradcany-60-h-zlutooranzova-s-3-d-1-id-397-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 80 h olivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 19",
+        "box": [0.212, 0.297, 0.478, 0.42],
+        "description": "Typ D. Na stránce jsou dva kusy, oba razítkované.",
+        "price": "razítkovaná kolem 2 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 80 h olivová",
+            "url": "https://infofila.cz/hradcany-80-h-olivova-s-3-d-1-id-399-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 300 h zelenošedá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 23",
+        "box": [0.172, 0.655, 0.434, 0.785],
+        "description": "Typ D, vysoká hodnota pro balíky a cenné zásilky. Na stránce jsou dva kusy, druhý jen se stopou razítka.",
+        "price": "razítkovaná kolem 7 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 300 h zelenošedá",
+            "url": "https://infofila.cz/hradcany-300-h-zelenoseda-s-3-d-1-id-403-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 1000 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 26",
+        "box": [0.155, 0.78, 0.425, 0.915],
+        "description": "Nejvyšší hodnota série, typ D; s nákladem jen asi 447 tisíc kusů je mezi nezoubkovanými Hradčany nejdražší. Na stránce jsou dva kusy, první na zažloutlém papíře.",
+        "price": "razítkovaná kolem 15 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 1000 h fialová",
+            "url": "https://infofila.cz/hradcany-1000-h-fialova-s-3-d-1-id-406-cenik-znamek"
+          },
+          {
+            "title": "Wikipedie, Hradčany (poštovní známky)",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dany_(po%C5%A1tovn%C3%AD_zn%C3%A1mky)"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104119.avif": {
+    "note": "Albová strana 9 – Hradčany zoubkované (předtisk pro zoubkování 11½ a 11½ : 10¾). Sběratel sem vlepil nezoubkované (stříhané) známky V. kresby (typ e), většinou mimo předtištěná políčka; pro zoubkované Hradčany zůstala políčka prázdná.",
+    "stamps": [
+      {
+        "name": "Hradčany, 15 h cihlově červená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 7",
+        "box": [0.065, 0.051, 0.223, 0.137],
+        "description": "Nezoubkovaná známka V. kresby (typ e) podle Alfonse Muchy – velký bílý nápis na barevném podkladu, bez keře a slunce. Vydána 7. 6. 1919. Na stránce jsou dva kusy, oba s modrošedým razítkem.",
+        "price": "razítkovaná kolem 1 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 15 h cihlově červená",
+            "url": "https://infofila.cz/hradcany-15-h-cihlove-cervena-s-3-d-1-id-389-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 7",
+            "url": "https://infofila.cz/phstamps/hradcany_pof7.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 25 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 11",
+        "box": [0.605, 0.052, 0.75, 0.136],
+        "description": "Nezoubkovaná, V. kresba (typ e), vydaná 9. 7. 1919. Na stránce jsou dva kusy; druhý v tmavším černofialovém odstínu na zažloutlém papíře.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 25 h fialová",
+            "url": "https://ww.infofila.cz/hradcany-25-h-fialova-s-3-d-1-id-1505-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 11",
+            "url": "https://infofila.cz/phstamps/hradcany_pof11.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 5 h modrozelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 4",
+        "box": [0.602, 0.138, 0.757, 0.227],
+        "description": "Nezoubkovaná, V. kresba (typ e), vydaná 1. 8. 1919. Vlepena přes políčko pro zoubkovanou modrozelenou 5 h; nese výrazné kruhové denní razítko.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 5 h modrozelená",
+            "url": "https://infofila.cz/hradcany-5-h-modrozelena-s-3-d-1-id-386-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 4",
+            "url": "https://infofila.cz/phstamps/hradcany_pof4.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 50 h modrá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 16",
+        "box": [0.403, 0.342, 0.57, 0.446],
+        "description": "Nezoubkovaná, V. kresba (typ e), vydaná 19. 8. 1919. Na stránce jsou dva kusy; druhý, níže vlevo, má nepravidelně stříhaný okraj a razítko dole.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 50 h modrá",
+            "url": "https://infofila.cz/hradcany-50-h-modra-s-3-d-1-id-396-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 16",
+            "url": "https://infofila.cz/phstamps/hradcany_pof16.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 75 h šedozelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 18",
+        "box": [0.046, 0.44, 0.205, 0.537],
+        "description": "Nezoubkovaná, V. kresba (typ e), vydaná 3. 7. 1919. Na stránce jsou tři kusy pod sebou u levého okraje, všechny razítkované; první má zažloutlé skvrny na okrajích papíru.",
+        "price": "razítkovaná kolem 3 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 75 h šedozelená",
+            "url": "https://infofila.cz/hradcany-75-h-sedozelena-s-3-d-1-id-398-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 18",
+            "url": "https://infofila.cz/phstamps/hradcany_pof18.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 120 h šedá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 21",
+        "box": [0.585, 0.45, 0.754, 0.553],
+        "description": "Nezoubkovaná, V. kresba (typ e) v tmavě šedém až šedočerném odstínu, vydaná 28. 7. 1919. Na stránce jsou dva kusy.",
+        "price": "razítkovaná kolem 3 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 120 h šedá",
+            "url": "https://infofila.cz/hradcany-120-h-seda-s-3-d-1-id-401-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 21",
+            "url": "https://infofila.cz/phstamps/hradcany_pof21.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 500 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 25",
+        "box": [0.583, 0.562, 0.73, 0.657],
+        "description": "Nezoubkovaná, V. kresba (typ e) v červenohnědém odstínu, vydaná 9. 8. 1919. Na stránce jsou čtyři kusy: dva jednotlivé a svislá dvojice u pravého okraje (přečnívá přes rám listu).",
+        "price": "razítkovaná kolem 10 Kč za kus",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 500 h hnědá",
+            "url": "https://infofila.cz/hradcany-500-h-hneda-s-3-d-1-id-405-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 25",
+            "url": "https://infofila.cz/phstamps/hradcany_pof25.htm"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104154.avif": {
+    "note": "Albová strana 10 – Hradčany zoubkované 13¾ a 13¾ : 10¾. Černé vyobrazení známky 3 h v horní řadě je předtisk alba, ne skutečná známka. Přesný typ zoubkování (písmeno za katalogovým číslem) nelze z fotografie spolehlivě určit.",
+    "stamps": [
+      {
+        "name": "Hradčany, 5 h světle zelená, zoubkovaná",
+        "country": "Československo",
+        "year": "1918–1920",
+        "catalog": "Pofis 3",
+        "box": [0.618, 0.131, 0.788, 0.237],
+        "description": "I. kresba (typ a) s malým bílým nápisem po stranách, zoubkovaná varianta (u Pofis 3 řádkové zoubkování D nebo E). Denní razítko s datem 17. VII. 19…, zoubky jsou zhnědlé.",
+        "price": "razítkovaná zoubkovaná v řádu korun až desítek Kč podle typu zoubkování",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 3",
+            "url": "https://infofila.cz/phstamps/hradcany_pof3.htm"
+          },
+          {
+            "title": "Sbírám.cz, Hradčany zoubkované",
+            "url": "https://www.sbiram.cz/1-200h--zakladni-serie-zoubkovanych-znamek--nejlevnejsi-varianty--ilustracni-foto/"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 10 h červená, zoubkovaná",
+        "country": "Československo",
+        "year": "1918–1920",
+        "catalog": "Pofis 5",
+        "box": [0.258, 0.234, 0.426, 0.335],
+        "description": "I. kresba (typ a), úředně zoubkovaná jen řádkovým zoubkováním 11½ (5D); jiné rozměry by byly soukromé zoubkování. Razítko jen v levém dolním rohu.",
+        "price": "razítkovaná v řádu korun až desítek Kč podle typu zoubkování",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 5",
+            "url": "https://infofila.cz/phstamps/hradcany_pof5.htm"
+          },
+          {
+            "title": "Infofila, Hradčany – soukromé zoubkování",
+            "url": "https://infofila.cz/hradcany-soukrome-zoubkovani-r-2-c-2208"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 25 h modrá, zoubkovaná",
+        "country": "Československo",
+        "year": "1918–1920",
+        "catalog": "Pofis 10",
+        "box": [0.253, 0.34, 0.423, 0.443],
+        "description": "I. kresba (typ a), pravděpodobně hřebenové zoubkování 13¾ : 13½ (10A), existuje i řádkové 11½ (10D). Na stránce jsou dva kusy, druhý vlepený dole vedle políčka pro zoubkování 13¾ : 10¾.",
+        "price": "razítkovaná v řádu korun až desítek Kč podle typu zoubkování",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 10",
+            "url": "https://infofila.cz/phstamps/hradcany_pof10.htm"
+          },
+          {
+            "title": "Sbírám.cz, Hradčany zoubkované",
+            "url": "https://www.sbiram.cz/1-200h--zakladni-serie-zoubkovanych-znamek--nejlevnejsi-varianty--ilustracni-foto/"
+          }
+        ]
+      },
+      {
+        "name": "Červený kříž, Hradčany 40 + 20 h žlutá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 170",
+        "box": [0.792, 0.348, 0.966, 0.455],
+        "description": "Dobročinná známka ve prospěch Československého červeného kříže vydaná 15. 12. 1920: Hradčany 40 h ve změněné barvě s červeným přítiskem kříže a příplatku 20 haléřů (návrh A. Mudruňka). Platila jen do 14. 1. 1921, proto jsou razítkované kusy méně časté; tento kus má výrazné denní razítko.",
+        "price": "razítkovaná v řádu desítek Kč (sousední hodnota 60 + 20 h razítkovaná u obchodníka 46 Kč)",
+        "sources": [
+          {
+            "title": "Burda Auction, Červený kříž 1920",
+            "url": "https://www.burda-auction.com/cz/aukce-58/show/43/filatelie-csr-i-cerveny-kriz-1920/"
+          },
+          {
+            "title": "Pevinx, Pofis 171 razítkovaná",
+            "url": "https://www.pevinx.cz/tuzemsko-znamky-arsiky-pl-ap-1920-csr-i-0171-priplatkova-ve-prospech-cerveneho-krize-o-p"
+          },
+          {
+            "title": "Infofila, Príplatkové známky v prospech Červeného kríža",
+            "url": "https://www.infofila.cz/priplatkove-vyplatne-znamky-v-prospech-cerveneho-k-r-2-c-5911"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 50 h fialová, soukromé zoubkování, s perfinem",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 15",
+        "box": [0.065, 0.443, 0.236, 0.55],
+        "description": "III. kresba (typ c), úředně vydaná jen nezoubkovaná – zoubkování je tedy pravděpodobně soukromé (firmy a pošty si archy dávaly perforovat). Přes obraz je perfin, děrovaná písmena firmy, a kruhové razítko.",
+        "price": "razítkovaná kolem 1 Kč; soukromě zoubkované kusy se oceňují zhruba jako nezoubkované",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 50 h fialová",
+            "url": "https://infofila.cz/hradcany-50-h-fialova-s-3-d-1-id-395-cenik-znamek"
+          },
+          {
+            "title": "Infofila, Hradčany – soukromé zoubkování",
+            "url": "https://infofila.cz/hradcany-soukrome-zoubkovani-r-2-c-2208"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 100 h hnědá, soukromé zoubkování",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 20",
+        "box": [0.241, 0.56, 0.405, 0.665],
+        "description": "II. kresba (typ b) s malým barevným nápisem na bílém podkladu; úředně jen nezoubkovaná, takže zoubkování je pravděpodobně soukromé. Denní razítko s datem …9. VII. 20.",
+        "price": "razítkovaná kolem 2 Kč; soukromě zoubkované kusy se oceňují zhruba jako nezoubkované",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 100 h hnědá",
+            "url": "https://infofila.cz/hradcany-100-h-hneda-s-3-d-1-id-400-cenik-znamek"
+          },
+          {
+            "title": "Infofila, Hradčany – soukromé zoubkování",
+            "url": "https://infofila.cz/hradcany-soukrome-zoubkovani-r-2-c-2208"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 200 h ultramarínová, zoubkovaná",
+        "country": "Československo",
+        "year": "1919–1920",
+        "catalog": "Pofis 22A",
+        "box": [0.6, 0.565, 0.778, 0.677],
+        "description": "II. kresba (typ b), hřebenové zoubkování 13¾ : 13½ – jediné úřední zoubkování této hodnoty. Na stránce jsou tři kusy; první s razítkem …MANOV…, další dva vlepené vpravo dole mimo políčka.",
+        "price": "razítkovaná v řádu korun až desítek Kč",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 22",
+            "url": "https://infofila.cz/phstamps/hradcany_pof22.htm"
+          },
+          {
+            "title": "Sbírám.cz, Hradčany zoubkované",
+            "url": "https://www.sbiram.cz/1-200h--zakladni-serie-zoubkovanych-znamek--nejlevnejsi-varianty--ilustracni-foto/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104217.avif": {
+    "note": "Albová strana 11 – zoubkované Hradčany, oddíly pro hřebenové zoubkování 13¾ : 13½, řádkové 13¾ : 11½ a hřebenové 11½ : 11¾. Známky jsou vlepené hustě, často mimo políčka a přes sebe; několik dalších kusů je dole pod rámem stránky.",
+    "stamps": [
+      {
+        "name": "Hradčany, 5 h modrozelená, zoubkovaná",
+        "country": "Československo",
+        "year": "1919–1920",
+        "catalog": "Pofis 4",
+        "box": [0.068, 0.077, 0.214, 0.161],
+        "description": "V. kresba (typ e) podle Alfonse Muchy. Na stránce je pět kusů – čtyři v oddílu hřebenového zoubkování 13¾ : 13½ a jeden v oddílu 11½ : 11¾ s rámečkovým (rušicím) razítkem.",
+        "price": "razítkovaná zoubkovaná v řádu jednotek až desítek Kč podle typu zoubkování",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 4",
+            "url": "https://infofila.cz/phstamps/hradcany_pof4.htm"
+          },
+          {
+            "title": "Sbírám.cz, Hradčany zoubkované",
+            "url": "https://www.sbiram.cz/1-200h--zakladni-serie-zoubkovanych-znamek--nejlevnejsi-varianty--ilustracni-foto/"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 10 h zelená, zoubkovaná",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 6",
+        "box": [0.75, 0.059, 0.904, 0.146],
+        "description": "V. kresba (typ e), vydaná 3. 1. 1920. Na stránce jsou čtyři kusy; první s razítkem …OM… vlepený nad rámem stránky, jeden v oddílu 11½ : 11¾.",
+        "price": "razítkovaná zoubkovaná v řádu jednotek až desítek Kč",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 6",
+            "url": "https://infofila.cz/phstamps/hradcany_pof6.htm"
+          },
+          {
+            "title": "Infofila, Hradčany 10 h zelená",
+            "url": "https://infofila.cz/hradcany-10-h-zelena-s-3-d-1-id-388-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 20 h modrozelená, zoubkovaná",
+        "country": "Československo",
+        "year": "1919–1920",
+        "catalog": "Pofis 8",
+        "box": [0.852, 0.176, 0.995, 0.257],
+        "description": "I. kresba (typ a) s malým bílým nápisem ČESKO SLOVENSKÁ po stranách, světle modrozelený odstín. Na stránce jsou dva kusy, oba s kruhovým razítkem; první je částečně přelepený přes zelenou 10 h.",
+        "price": "razítkovaná zoubkovaná v řádu jednotek až desítek Kč",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 20 h modrozelená",
+            "url": "https://infofila.cz/hradcany-20-h-modrozelena-s-3-d-1-id-390-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, Hradčany zoubkované",
+            "url": "https://www.burda-auction.com/en/public-auction-72/show/1923/philately-czechoslovakia-1918_1939-hradcany-issue-_-perforated/"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 15 h cihlově červená, zoubkovaná",
+        "country": "Československo",
+        "year": "1919–1920",
+        "catalog": "Pofis 7",
+        "box": [0.228, 0.24, 0.383, 0.334],
+        "description": "V. kresba (typ e). Na stránce jsou čtyři kusy v odstínech od tmavě červené po oranžovočervenou: první s razítkem SLAVKOV NA MORAVĚ z 2. XI. 1920, jeden (pravděpodobně také 15 h) v oddílu řádkového zoubkování 13¾ : 11½ s razítkem (F)RÝDEK a jeden v oddílu 11½ : 11¾.",
+        "price": "razítkovaná zoubkovaná v řádu jednotek až desítek Kč (sada 5–25 h se zoubkováním 13¾ : 11½ razítkovaná 35 Kč)",
+        "sources": [
+          {
+            "title": "Sbírám.cz, Hradčany zoubkované",
+            "url": "https://www.sbiram.cz/1-200h--zakladni-serie-zoubkovanych-znamek--nejlevnejsi-varianty--ilustracni-foto/"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 7",
+            "url": "https://infofila.cz/phstamps/hradcany_pof7.htm"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 20 h karmínová, zoubkovaná",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 9",
+        "box": [0.052, 0.341, 0.207, 0.433],
+        "description": "V. kresba (typ e), vydaná 3. 1. 1920 jen zoubkovaná (hřebenové 13¾ : 13½ nebo řádkové 13¾). Kus má zažloutlé zoubky a razítko vlevo.",
+        "price": "razítkovaná zoubkovaná v řádu desítek Kč (10 kusů různých typů 398 Kč)",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 9",
+            "url": "https://infofila.cz/phstamps/hradcany_pof9.htm"
+          },
+          {
+            "title": "Sbírám.cz, 20 h červená zoubkované",
+            "url": "https://www.sbiram.cz/20h-cervena--zoubkovane--10-ks-vse-prickove-nebo-spiralove-typy--ruzne-perf-desky-a-pole--nr-9a-9c--razitkovane/"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 25 h fialová, zoubkovaná",
+        "country": "Československo",
+        "year": "1919–1920",
+        "catalog": "Pofis 11",
+        "box": [0.41, 0.341, 0.565, 0.433],
+        "description": "V. kresba (typ e). Na stránce jsou dva kusy, druhý v oddílu hřebenového zoubkování 11½ : 11¾ s razítkem …VICE.",
+        "price": "razítkovaná zoubkovaná v řádu jednotek až desítek Kč podle typu zoubkování",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 11",
+            "url": "https://infofila.cz/phstamps/hradcany_pof11.htm"
+          },
+          {
+            "title": "Burda Auction, Hradčany zoubkované",
+            "url": "https://www.burda-auction.com/en/public-auction-72/show/1923/philately-czechoslovakia-1918_1939-hradcany-issue-_-perforated/"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 60 h žlutooranžová, zoubkovaná",
+        "country": "Československo",
+        "year": "1919–1920",
+        "catalog": "Pofis 17",
+        "box": [0.222, 0.441, 0.383, 0.541],
+        "description": "IV. kresba (typ d), úředně zoubkovaná hřebenově 13¾ : 13½ (17A) nebo 11½ (17B). Na stránce jsou dva kusy, oba s částí kruhového razítka.",
+        "price": "razítkovaná zoubkovaná v řádu jednotek až desítek Kč",
+        "sources": [
+          {
+            "title": "Peters page, Hradčany Pofis 17",
+            "url": "https://infofila.cz/phstamps/hradcany_pof17.htm"
+          },
+          {
+            "title": "Infofila, Hradčany 60 h žlutooranžová",
+            "url": "https://infofila.cz/hradcany-60-h-zlutooranzova-s-3-d-1-id-397-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Hradčany, 30 h světle fialová, zoubkovaná",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 13",
+        "box": [0.2, 0.769, 0.364, 0.861],
+        "description": "Podtyp V. kresby s hrubší kresbou (typ ea), poslední hodnota Hradčan vydaná 12. 4. 1920, zoubkovaná hřebenově 11½. Na stránce jsou čtyři kusy pod rámem stránky; první s obdélníkovým razítkem s písmeny S.P., jiný s razítkem z 13. VIII. 192….",
+        "price": "razítkovaná kolem 1 Kč (katalog), zoubkovaná podle typu",
+        "sources": [
+          {
+            "title": "Infofila, Hradčany 30 h světle fialová",
+            "url": "https://infofila.cz/hradcany-30-h-svetle-fialova-s-3-d-1-id-393-cenik-znamek"
+          },
+          {
+            "title": "Peters page, Hradčany Pofis 13",
+            "url": "https://infofila.cz/phstamps/hradcany_pof13.htm"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104240.avif": {
+    "note": "Albová strana 13 – novinové známky 1918–1920 (Sokol v letu podle Alfonse Muchy), oddíly stříhané, zoubkované 11½ a 13¾. Černé vyobrazení 2 h v oddílu zoubkovaných je předtisk alba, ne známka. Několik známek s přetiskem O.T. je vlepeno nad rámem a pod rámem stránky.",
+    "stamps": [
+      {
+        "name": "Sokol v letu, novinová 10 h fialová",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV4",
+        "box": [0.625, 0.048, 0.759, 0.137],
+        "description": "Nezoubkovaná novinová známka s motivem sokola v letu podle Alfonse Muchy, určená k vyplácení novin. Kus vlepený nad rámem stránky, bez výrazného razítka.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila, Novinové – sokol v letu 10 h fialová",
+            "url": "https://infofila.cz/novinove-sokol-v-letu-10-h-fialova-s-3-d-4-id-710-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Známka pro obchodní tiskoviny, přetisk O.T. na 10 h fialové",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis OT1",
+        "box": [0.771, 0.044, 0.912, 0.138],
+        "description": "Novinová 10 h Sokol v letu s černým přetiskem O.T. (obchodní tiskoviny), užívaná od roku 1934 pro firemní tiskoviny. Na stránce je pět kusů: tento nad rámem, jeden v oddílu zoubkovaných se soukromým zoubkováním a tři pod rámem – kus s okrajem archu a počitadlem \"10 – 36\", kus s dolním okrajem \"2 –\" a zoubky nahoře i dole a kus s levým okrajem archu.",
+        "price": "razítkovaná kolem 10 Kč (katalog; razítkovaná je dražší než nepoužitá), kusy s okrajem a počitadlem víc",
+        "sources": [
+          {
+            "title": "Infofila, Známky pro obchodní tiskoviny 10 h fialová",
+            "url": "https://infofila.cz/znamky-pro-obchodni-tiskoviny-10-h-fialova-s-3-d-5-id-730-cenik-znamek"
+          },
+          {
+            "title": "Peters page, katalogový převodník",
+            "url": "https://infofila.cz/phstamps/cat_converter2.htm"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, novinová 5 h zelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis NV2",
+        "box": [0.25, 0.13, 0.398, 0.224],
+        "description": "Nezoubkovaná novinová známka podle Alfonse Muchy, s nákladem přes 3,6 miliardy kusů nejběžnější hodnota série. Na stránce jsou dva kusy v odstínech šedozelené, druhý na zažloutlém papíře.",
+        "price": "razítkovaná kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Novinové – sokol v letu 5 h zelená",
+            "url": "https://infofila.cz/novinove-sokol-v-letu-5-h-zelena-s-3-d-4-id-708-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, novinová 20 h modrá",
+        "country": "Československo",
+        "year": "1918",
+        "catalog": "Pofis NV5",
+        "box": [0.022, 0.226, 0.16, 0.322],
+        "description": "Nezoubkovaná novinová známka podle Alfonse Muchy. Na stránce jsou dva kusy vlepené u levého okraje, druhý tmavší na zažloutlém papíře s razítkem.",
+        "price": "razítkovaná kolem 0,50 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Novinové – sokol v letu 20 h modrá",
+            "url": "https://infofila.cz/novinove-sokol-v-letu-20-h-modra-s-3-d-4-id-711-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, novinová 50 h oranžová",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis NV7",
+        "box": [0.497, 0.231, 0.645, 0.332],
+        "description": "Nezoubkovaná novinová známka, vyšla v roce 1920 spolu s hodnotou 100 h. Na stránce jsou dva kusy, oba s kruhovým denním razítkem.",
+        "price": "razítkovaná kolem 1 Kč",
+        "sources": [
+          {
+            "title": "Infofila, Novinové – sokol v letu 50 h oranžová",
+            "url": "https://infofila.cz/novinove-sokol-v-letu-50-h-oranzova-s-3-d-4-id-713-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Sokol v letu, novinová 5 h tmavě zelená, soukromé zoubkování",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis NV2",
+        "box": [0.234, 0.338, 0.383, 0.437],
+        "description": "Novinové známky byly úředně vydány jen nezoubkované; zoubky na tomto kusu jsou proto pravděpodobně soukromé zoubkování (vlepen do oddílu zoubkovaných 11½). Na stránce jsou dva takové kusy, oba razítkované, první v tmavě zeleném odstínu.",
+        "price": "razítkovaná v řádu korun; soukromé zoubkování se oceňuje zhruba jako nezoubkovaná známka",
+        "sources": [
+          {
+            "title": "Infofila, Novinové – sokol v letu 5 h zelená",
+            "url": "https://infofila.cz/novinove-sokol-v-letu-5-h-zelena-s-3-d-4-id-708-cenik-znamek"
+          },
+          {
+            "title": "Peters page, katalogový převodník",
+            "url": "https://infofila.cz/phstamps/cat_converter2.htm"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104250.avif": {
+    "note": "Albová strana 14 – legionářské známky 1919 s políčky pro různá zoubkování. Černá vyobrazení lva 15 h (vlevo uprostřed) a matky s dítětem 75 h (vlevo dole) jsou předtisky alba; jediná skutečná známka je hnědá 25 h.",
+    "stamps": [
+      {
+        "name": "Legionářské, Lev trhající okovy 25 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis 28",
+        "box": [0.478, 0.453, 0.632, 0.574],
+        "description": "Příležitostná známka k 1. výročí republiky vydaná 27. 10. 1919 s příplatkem pro sirotky po padlých legionářích, návrh Jakub Obrovský, knihtisk. Platila jen do 3. 11. 1919, osm dní. Zoubkovaný kus s kruhovým razítkem přes hodnotu, vlepený v políčku pro 25 h s hřebenovým zoubkováním 13½ : 13¾.",
+        "price": "razítkovaná kolem 3 Kč (katalog, běžné hřebenové zoubkování); vzácnější zoubkování výrazně víc",
+        "sources": [
+          {
+            "title": "Infofila, Legionářské 25 h hnědá",
+            "url": "https://infofila.cz/legionarske-1-vyroci-vzniku-csr-25-h-hneda-s-3-d-1-id-408-cenik-znamek"
+          },
+          {
+            "title": "Wikipedie, Legionářské známky",
+            "url": "https://cs.wikipedia.org/wiki/Legion%C3%A1%C5%99sk%C3%A9_zn%C3%A1mky"
+          },
+          {
+            "title": "Burda Auction, Legionářské 1919",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-39/show/19/filatelie-csr-i-legionarske-1919/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104324.avif": {
+    "note": "Stránka 25 alba: Holubice 1920 – zoubkované, stříhané a tête-bêche (otočené dvojice). Černá vyobrazení (5 h, 30 h, tête-bêche dvojice 5 h a 20 h) jsou předtisky alba; obsazeno je jen jedno políčko, u dalších zůstaly zbytky nálepek.",
+    "stamps": [
+      {
+        "name": "Holubice, 25 h zelená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 149",
+        "box": [0.455, 0.303, 0.578, 0.404],
+        "description": "Holubice s dopisem podle návrhu Jaroslava Bendy, knihtisk, hřebenové zoubkování 14. Vlepena na místo typu I; kus má vlnovkové strojové razítko.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Holubice 25 h zelená",
+            "url": "https://www.infofila.cz/holubice-25-h-zelena-s-3-d-1-id-494-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, Holubice 1920",
+            "url": "https://www.burda-auction.com/cz/aukce-61/show/23/filatelie-csr-i-holubice-1920"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104344.avif": {
+    "note": "Stránka 26 alba: Osvobozená republika 1920 (V. H. Brunner) – řádkové zoubkování 13¾, hřebenové 14, stříhané a tête-bêche. Černá vyobrazení (20 h a 100 h) jsou předtisky alba. Několik známek je vlepeno mimo políčka na okrajích; tužkou jsou připsány poznámky (\"…nkance\" pod 20 h, \"vadné\" vpravo nahoře).",
+    "stamps": [
+      {
+        "name": "Osvobozená republika, 40 h hnědá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 154",
+        "box": [0.19, 0.15, 0.302, 0.241],
+        "description": "Alegorie republiky – žena trhající okovy, knihtisk České grafické Unie. Vlepena v řádku pro řádkové zoubkování 13¾ (Pof. 154B, výrazně dražší); zoubkování z fotografie ověřit nelze, běžná je hřebenová 14. Lehké razítko.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog); pravé ŘZ 13¾ (154B) v katalogu řádově tisíce Kč",
+        "sources": [
+          {
+            "title": "Infofila.cz, Osvobozená republika 40 h hnědá",
+            "url": "https://www.infofila.cz/osvobozena-republika-40-h-hneda-s-3-d-1-id-499-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, Osvobozená republika 1920",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1834/filatelie-csr-i-osvobozena-republika-1920/"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 60 h modrá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 157",
+        "box": [0.446, 0.152, 0.556, 0.248],
+        "description": "Stejná série; 60 h vyšla v nákladu téměř 269 milionů kusů. Vlepena v řádku pro řádkové zoubkování 13¾ (Pof. 157B), zoubkování nebylo ověřeno. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1920 (Pofis čísla)",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1920"
+          },
+          {
+            "title": "Burda Auction, Osvobozená republika 1920",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1834/filatelie-csr-i-osvobozena-republika-1920/"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 20 h červená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 151",
+        "box": [0.04, 0.262, 0.139, 0.353],
+        "description": "První hodnota série (červen 1920), platila jen do 30. 4. 1921. Vlepena na levém okraji listu vedle předtisku, s částí razítka.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1920 (Pofis čísla)",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1920"
+          },
+          {
+            "title": "Burda Auction, Osvobozená republika 1920",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1834/filatelie-csr-i-osvobozena-republika-1920/"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 50 h červená",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 155",
+        "box": [0.766, 0.266, 0.875, 0.362],
+        "description": "Hřebenové zoubkování 14, platila do 31. 1. 1923. Přes známku vodorovné pruhy strojového razítka.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Osvobozená republika 50 h červená",
+            "url": "https://www.infofila.cz/osvobozena-republika-50-h-cervena-s-3-d-1-id-500-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, Osvobozená republika 1920",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1834/filatelie-csr-i-osvobozena-republika-1920/"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 60 h modrá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 157",
+        "box": [0.877, 0.269, 0.984, 0.363],
+        "description": "Hřebenové zoubkování 14. Vlepena vpravo mimo rámeček stránky, s denním razítkem.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1920 (Pofis čísla)",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1920"
+          },
+          {
+            "title": "Wikipedie, Osvobozená republika",
+            "url": "https://cs.wikipedia.org/wiki/Osvobozen%C3%A1_republika"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 50 h zelená, dvojice",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 156",
+        "box": [0.033, 0.358, 0.232, 0.45],
+        "description": "Zelená padesátihaléřová vyšla až v dubnu 1922 v nákladu téměř 470 milionů kusů. Vodorovná dvojice s denním razítkem ŽIDLOCHOVICE z července 1923; levá známka přesahuje přes okraj políčka.",
+        "price": "razítkovaný kus kolem 0,50 Kč (katalog), dvojice o něco víc",
+        "sources": [
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1920 (Pofis čísla)",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1920"
+          },
+          {
+            "title": "Burda Auction, Osvobozená republika 1920",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1834/filatelie-csr-i-osvobozena-republika-1920/"
+          }
+        ]
+      },
+      {
+        "name": "Osvobozená republika, 100 h hnědá",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 158",
+        "box": [0.38, 0.356, 0.495, 0.451],
+        "description": "Hřebenové zoubkování 14, náklad přes 191 milionů kusů. Razítkovaná, část razítka v pravém dolním rohu.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Osvobozená republika 100 h hnědá",
+            "url": "https://www.infofila.cz/osvobozena-republika-100-h-hneda-s-3-d-1-id-503-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, Osvobozená republika 1920",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1834/filatelie-csr-i-osvobozena-republika-1920/"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104401.avif": {
+    "note": "Stránka 27 alba: President Masaryk 1920, Husita 1920 a letecké známky 1920 a 1922. Černá vyobrazení (Masaryk 500 h, Husita 80 h, letadlo 28 Kč a 100 h) jsou předtisky alba; obsazena je jen Husita 80 h, ostatní políčka jsou prázdná nebo se zbytky nálepek.",
+    "stamps": [
+      {
+        "name": "Husita, 80 h fialová, dvojice",
+        "country": "Československo",
+        "year": "1920",
+        "catalog": "Pofis 162",
+        "box": [0.012, 0.328, 0.226, 0.42],
+        "description": "Námět Alfonse Muchy – husitský bojovník s kalichem, hlubotisk, řádkové zoubkování 13¾. Vodorovná dvojice s denním razítkem je vlepena na levém okraji listu; na stránce je ještě jeden samostatný razítkovaný kus pod ní.",
+        "price": "razítkovaná kolem 1 Kč za kus (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Husita 80 h fialová",
+            "url": "https://www.infofila.cz/husita-80-h-fialova-s-3-d-1-id-507-cenik-znamek"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1920 (Pofis čísla)",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1920"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104422.avif": {
+    "note": "Stránka 29 alba: Alegorie (Hospodářství a věda) II. vydání 1923 a Jubilejní známky 1923 k 5. výročí republiky. Černá vyobrazení (Alegorie 100 h, Masaryk 50 h) jsou předtisky alba; většina políček je prázdná, některá se zbytky nálepek.",
+    "stamps": [
+      {
+        "name": "Hospodářství a věda, 100 h červená",
+        "country": "Československo",
+        "year": "1923",
+        "catalog": "Pofis 173",
+        "box": [0.6, 0.133, 0.77, 0.235],
+        "description": "Alegorie hospodářství a vědy podle návrhu Jakuba Obrovského (signatura \"J. OBROVSKÝ\" vlevo dole), knihtisk. Vlepena v řadě pro řádkové zoubkování 13¾; typ ani zoubkování z fotografie neurčuji. Výrazné denní razítko.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Hospodářství a věda 100 h červená",
+            "url": "https://www.infofila.cz/hospodarstvi-a-veda-100-h-cervena-s-3-d-1-id-517-cenik-znamek"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1923",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1923"
+          }
+        ]
+      },
+      {
+        "name": "Hospodářství a věda, 100 h červená, hřebenové zoubkování",
+        "country": "Československo",
+        "year": "1923",
+        "catalog": "Pofis 173",
+        "box": [0.04, 0.357, 0.21, 0.463],
+        "description": "Stejná známka v řadě pro hřebenové zoubkování 13¾ : 13½. Na stránce jsou v této řadě dva kusy; levý má denní razítko pravděpodobně BRNO s datem z roku 1923, pravý rámečkové razítko.",
+        "price": "razítkovaná kolem 0,50 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Hospodářství a věda 100 h červená",
+            "url": "https://www.infofila.cz/hospodarstvi-a-veda-100-h-cervena-s-3-d-1-id-517-cenik-znamek"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1923",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1923"
+          }
+        ]
+      },
+      {
+        "name": "5. výročí vzniku ČSR, T. G. Masaryk 50 h zelená",
+        "country": "Československo",
+        "year": "1923",
+        "catalog": "Pofis 176",
+        "box": [0.105, 0.716, 0.24, 0.822],
+        "description": "Jubilejní známka k 5. výročí republiky (1918 28/X 1923) s portrétem T. G. Masaryka podle Maxe Švabinského, náklad 920 tisíc kusů. Vlepena vedle políček pro kartonový papír, druh papíru jsem neověřoval; denní razítko.",
+        "price": "razítkovaná kolem 2 Kč (katalog)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Jubilejní 1923 50 h zelená",
+            "url": "https://www.infofila.cz/jubileni-5-vyroci-vzniku-csr-50-h-zelena-s-3-d-1-id-520-cenik-znamek"
+          },
+          {
+            "title": "Infofila.cz, galerie známek ČSR 1923",
+            "url": "https://www.infofila.cz/cenik-oceneni-hodnota-postovnich-znamek-filatelie-3-1-1923"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104433.avif": {
+    "note": "Stránka 30 alba: President Masaryk 1925 – neotypie a rytina 1925–1926 s rozlišením typů a průsvitek. Černá vyobrazení (Masaryk 40 h a několik 1 Kč) jsou předtisky alba. Pod mnoha políčky je tužkou \"průsv.\" (u jednoho \"svislé průsv.\") – sběratel si poznamenával průsvitku.",
+    "stamps": [
+      {
+        "name": "T. G. Masaryk, rytina 1 Kč červená",
+        "country": "Československo",
+        "year": "1925–1926",
+        "box": [0.146, 0.468, 0.268, 0.565],
+        "description": "Portrét podle Maxe Švabinského, ocelotisk (rytec J. Goldschmied); v katalogu Pofis 190–203 podle typu, formátu, zoubkování a průsvitky, z fotografie typ neurčuji. Na stránce jsou tři kusy – tento s vlnovkovým strojovým razítkem částečně překrývá předtisk, další dva jsou vlepeny na levém a pravém okraji řádku.",
+        "price": "razítkovaná běžné typy v řádu korun; vzácné typy a průsvitky stovky až tisíce Kč",
+        "sources": [
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých poštovních známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          },
+          {
+            "title": "Philashop.cz, Masaryk 1925–1926 rytina, typy a průsvitky",
+            "url": "https://www.philashop.cz/galerie1/gcs10190.htm"
+          },
+          {
+            "title": "Burda Auction, Masaryk 1923–1926",
+            "url": "https://www.burda-auction.com/cz/salova-aukce-38/show/1396/filatelie-csr-i-masaryk-1923_1926/"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, rytina 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1925–1926",
+        "box": [0.655, 0.698, 0.772, 0.79],
+        "description": "Stejná výplatní série, hodnota 3 Kč (Pofis 192, 196 nebo 198 podle typu a formátu; typ neurčen). Vlepena v řadě trojkorunových typů, s denním razítkem (čitelné jen \"…CHOV…\").",
+        "price": "razítkovaná běžné typy kolem desítek Kč, vzácné průsvitky typu I mnohem víc",
+        "sources": [
+          {
+            "title": "Philashop.cz, Masaryk 1925–1926 rytina, typy a průsvitky",
+            "url": "https://www.philashop.cz/galerie1/gcs10190.htm"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých poštovních známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104445.avif": {
+    "note": "Stránka 31 alba: Masaryk 1925, Olympijský kongres, VIII. slet a novinová provizoria. Černě tištěná vyobrazení (5 h s hvězdičkami, přetisk NOVINY) jsou předtisky alba; obsazena jsou jen dvě políčka novinových provizorií.",
+    "stamps": [
+      {
+        "name": "Novinové provizorium 5 na 2 h zelená (Sokol v letu)",
+        "country": "Československo",
+        "year": "1925",
+        "catalog": "Pofis NV9",
+        "box": [0.03, 0.49, 0.173, 0.585],
+        "description": "Novinová známka Sokol v letu podle Alfonse Muchy z roku 1918, přetištěná modrou hodnotou 5 a dvěma hvězdičkami přes původní hodnotu 2 h. Nezoubkovaný (stříhaný) kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Novinové provizorium NOVINY 5 na 2 h fialová (spěšná)",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis NV11",
+        "box": [0.075, 0.606, 0.243, 0.689],
+        "description": "Spěšná známka Alfonse Muchy z roku 1919 (2 h fialová na nažloutlém papíru) s přetiskem \"NOVINY\" a hodnotou 5. Nezoubkovaná, razítko s datem pravděpodobně z roku 1926.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104459.avif": {
+    "note": "Stránka 32 alba: Masaryk 1926, VIII. všesokolský slet a Hrady, krajiny a města 1926–1927 s průsvitkou. Černá vyobrazení (1,20 Kč a 20 h Karlštejn, 2 Kč a 3 Kč Praha) jsou předtisky alba. Pod známkami jsou tužkou poznámky \"průsv.\" – sběratel si ověřil průsvitku.",
+    "stamps": [
+      {
+        "name": "T. G. Masaryk, 50 h zelená",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis 204",
+        "box": [0.349, 0.103, 0.471, 0.193],
+        "description": "Masaryk podle Maxe Švabinského v pozměněné kresbě, ocelotisk na papíru s průsvitkou. Kus s okrajovým razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      },
+      {
+        "name": "Karlštejn, 1,50 Kč červená",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis 214",
+        "box": [0.152, 0.505, 0.266, 0.591],
+        "description": "Série Hrady, krajiny a města s průsvitkou; na známce nápis KARLŮV TÝN. Na stránce jsou 2 kusy, první s razítkem z roku 1928.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města s průsvitkou",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-s-prusvitkou"
+          },
+          {
+            "title": "Burda Auction, výplatní vydání 1926–1929",
+            "url": "https://www.burda-auction.com/en/public-auction-84/show/1397/philately-czechoslovakia-1918_1939-posta-ceskoslovenska-1919-overprint-issue--austrian-express-1916_1917-general-issues-1926_1929/"
+          }
+        ]
+      },
+      {
+        "name": "Karlštejn, 2,50 Kč modrá",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis 215",
+        "box": [0.569, 0.507, 0.681, 0.594],
+        "description": "Série Hrady, krajiny a města s průsvitkou, nápis KARLŮV TÝN. Lehké razítko.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města s průsvitkou",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-s-prusvitkou"
+          },
+          {
+            "title": "Burda Auction, výplatní vydání 1926–1929",
+            "url": "https://www.burda-auction.com/en/public-auction-84/show/1397/philately-czechoslovakia-1918_1939-posta-ceskoslovenska-1919-overprint-issue--austrian-express-1916_1917-general-issues-1926_1929/"
+          }
+        ]
+      },
+      {
+        "name": "Orava, 40 h hnědá",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis 211",
+        "box": [0.704, 0.51, 0.817, 0.595],
+        "description": "Oravský hrad, série Hrady, krajiny a města s průsvitkou. Na stránce jsou 2 kusy.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města s průsvitkou",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-s-prusvitkou"
+          },
+          {
+            "title": "Burda Auction, výplatní vydání 1926–1929",
+            "url": "https://www.burda-auction.com/en/public-auction-84/show/1397/philately-czechoslovakia-1918_1939-posta-ceskoslovenska-1919-overprint-issue--austrian-express-1916_1917-general-issues-1926_1929/"
+          }
+        ]
+      },
+      {
+        "name": "Pernštejn, 30 h zelená",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis 210",
+        "box": [0.181, 0.614, 0.303, 0.7],
+        "description": "Hrad Pernštejn podle obrazu F. T. Šimona, série s průsvitkou. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města s průsvitkou",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-s-prusvitkou"
+          },
+          {
+            "title": "Burda Auction, výplatní vydání 1926–1929",
+            "url": "https://www.burda-auction.com/en/public-auction-84/show/1397/philately-czechoslovakia-1918_1939-posta-ceskoslovenska-1919-overprint-issue--austrian-express-1916_1917-general-issues-1926_1929/"
+          }
+        ]
+      },
+      {
+        "name": "Praha, 3 Kč červená",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis 226",
+        "box": [0.484, 0.72, 0.695, 0.81],
+        "description": "Pohled na Hradčany přes Vltavu, série Praha a Tatry s průsvitkou. Na stránce jsou 2 kusy, oba s razítkem pošty Zaječí (?) z roku 1928.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Praha a Tatry s průsvitkou",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/praha-a-tatry-s-prusvitkou"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104511.avif": {
+    "note": "Stránka 33 alba: Masaryk 1927, Hrady, krajiny a města 1927–1928 bez průsvitky a Města 1929. Černá vyobrazení (Masaryk 50 h, 2 Kč Pernštejn, 5 Kč Praha) jsou předtisky alba. Na levém okraji u vazby vyčnívá část další červené známky.",
+    "stamps": [
+      {
+        "name": "T. G. Masaryk, 60 h fialová",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 207",
+        "box": [0.522, 0.221, 0.628, 0.307],
+        "description": "Vydání bez průsvitky z roku 1927, ocelotisk podle Maxe Švabinského. Kus s lehkým razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 1 Kč červená",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 208",
+        "box": [0.663, 0.221, 0.776, 0.311],
+        "description": "Nová hodnota vydání bez průsvitky. Na stránce jsou 2 kusy, oba razítkované.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      },
+      {
+        "name": "Karlštejn, 20 h oranžová, svitková",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 216A",
+        "box": [0.291, 0.365, 0.399, 0.456],
+        "description": "Hodnota 20 h vyšla jen jako svitková známka (pro automaty), bez průsvitky. Na stránce jsou 2 kusy.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města bez průsvitky",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-bez-prusvitky"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Pernštejn, 30 h zelená",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 217",
+        "box": [0.44, 0.367, 0.561, 0.459],
+        "description": "Série Hrady, krajiny a města na papíru bez průsvitky. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města bez průsvitky",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-bez-prusvitky"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Strahov, 1,20 Kč červenofialová",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 219",
+        "box": [0.824, 0.371, 0.935, 0.459],
+        "description": "Strahovský klášter, předloha pořízena fotografií a upravena fotomontáží. Na stránce jsou 2 kusy, horní s razítkem Zaječí (?).",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města bez průsvitky",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-bez-prusvitky"
+          },
+          {
+            "title": "Burda Auction, výplatní vydání 1926–1929",
+            "url": "https://www.burda-auction.com/en/public-auction-84/show/1397/philately-czechoslovakia-1918_1939-posta-ceskoslovenska-1919-overprint-issue--austrian-express-1916_1917-general-issues-1926_1929/"
+          }
+        ]
+      },
+      {
+        "name": "Orava, 40 h hnědá",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 218",
+        "box": [0.44, 0.477, 0.561, 0.573],
+        "description": "Oravský hrad, vydání bez průsvitky. Výrazné razítko.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města bez průsvitky",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-bez-prusvitky"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Pernštejn, 2 Kč zelená",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 221",
+        "box": [0.106, 0.576, 0.214, 0.67],
+        "description": "Větší hodnota série bez průsvitky s hradem Pernštejn. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města bez průsvitky",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-bez-prusvitky"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Karlštejn, 2,50 Kč modrá",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis 223",
+        "box": [0.507, 0.58, 0.628, 0.675],
+        "description": "Vydání bez průsvitky; vzácnější typ má číslo Pofis 222, běžný kus je pravděpodobně 223.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Hrady, krajiny a města bez průsvitky",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/hrady-krajiny-a-mesta-bez-prusvitky"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Orava, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1931",
+        "catalog": "Pofis 224",
+        "box": [0.659, 0.582, 0.776, 0.675],
+        "description": "Dodatková hodnota série Hrady, krajiny a města bez průsvitky. Na stránce jsou 2 kusy.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Brno, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 254",
+        "box": [0.028, 0.805, 0.152, 0.911],
+        "description": "Série Města a krajiny, katedrála sv. Petra a Pavla v Brně, rytina Karla Seizingera. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104523.avif": {
+    "note": "Stránka 34 alba: Jubilejní známky 1928, Sv. Václav 1929 a Státní znak 1929–1931. Černá vyobrazení (30 h Hradec Králové, 10 h státní znak) jsou předtisky alba.",
+    "stamps": [
+      {
+        "name": "10 let ČSR, Užhorod 60 h oranžová",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 236",
+        "box": [0.595, 0.026, 0.761, 0.111],
+        "description": "Jubilejní série k 10. výročí republiky, rytina Karla Seizingera. Kus nese strojové propagační razítko \"KUPUJTE LOSY TŘÍDNÍ LOTERIE\".",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, 10. výročí vzniku ČSR",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/10-vyroci-vzniku-csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Hluboká 1 Kč červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 237",
+        "box": [0.796, 0.025, 0.954, 0.11],
+        "description": "Zámek Hluboká, jubilejní série 1928. Na stránce jsou 2 kusy, horní se stejným loterijním propagačním razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, 10. výročí vzniku ČSR",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/10-vyroci-vzniku-csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Praha – telefonní ústředna 50 h zelená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 235",
+        "box": [0.396, 0.108, 0.561, 0.196],
+        "description": "Budova telefonní ústředny v Praze, jubilejní série 1928. Lehké razítko.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, 10. výročí vzniku ČSR",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/10-vyroci-vzniku-csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, Brno 2 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 239",
+        "box": [0.246, 0.21, 0.386, 0.313],
+        "description": "Katedrála sv. Petra a Pavla v Brně, jubilejní série 1928. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, 10. výročí vzniku ČSR",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/10-vyroci-vzniku-csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "10 let ČSR, T. G. Masaryk 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis 241",
+        "box": [0.414, 0.216, 0.542, 0.32],
+        "description": "Portrét prezidenta Masaryka s letopočty 1918 a 1928 po stranách. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, 10. výročí vzniku ČSR",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/10-vyroci-vzniku-csr"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      },
+      {
+        "name": "Sv. Václav, 50 h zelená",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 243",
+        "box": [0.234, 0.379, 0.372, 0.486],
+        "description": "Série k 1000. výročí smrti sv. Václava (929–1929), kníže na koni s praporcem. Okrajové razítko.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          },
+          {
+            "title": "Wikipedie, Seznam poštovních známek Československa 1918–1939",
+            "url": "https://cs.wikipedia.org/wiki/Seznam_po%C5%A1tovn%C3%ADch_zn%C3%A1mek_%C4%8Ceskoslovenska_1918%E2%80%931939"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 5 h modrá",
+        "country": "Československo",
+        "year": "1931",
+        "catalog": "Pofis 248",
+        "box": [0.013, 0.686, 0.135, 0.777],
+        "description": "Malý státní znak, rytina Karla Seizingera. Na stránce jsou 3 kusy.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr?period=1930-1939"
+          },
+          {
+            "title": "Znamky.cz, Státní znak",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/statni-znak"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 10 h hnědá",
+        "country": "Československo",
+        "year": "1931",
+        "catalog": "Pofis 249",
+        "box": [0.17, 0.777, 0.292, 0.864],
+        "description": "Malý státní znak; kus s razítkem leží pod černým předtiskem alba.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr?period=1930-1939"
+          },
+          {
+            "title": "Znamky.cz, Státní znak",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/statni-znak"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 20 h červená",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 250",
+        "box": [0.321, 0.688, 0.449, 0.782],
+        "description": "Malý státní znak, vydání 1929. Pruhové (rušicí) razítko.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Státní znak",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/statni-znak"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 25 h zelená",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 251",
+        "box": [0.477, 0.689, 0.598, 0.783],
+        "description": "Malý státní znak, vydání 1929. Kus s razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Státní znak",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/statni-znak"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 30 h fialová",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 252",
+        "box": [0.635, 0.69, 0.759, 0.784],
+        "description": "Malý státní znak, vydání 1929. Pruhové razítko.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Státní znak",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/statni-znak"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      },
+      {
+        "name": "Státní znak, 40 h červenohnědá",
+        "country": "Československo",
+        "year": "1929",
+        "catalog": "Pofis 253",
+        "box": [0.79, 0.691, 0.916, 0.786],
+        "description": "Malý státní znak, vydání 1929. Na stránce jsou 2 kusy.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, Státní znak",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr/statni-znak"
+          },
+          {
+            "title": "Znamky.cz, katalog ČSR I s cenovými úrovněmi",
+            "url": "https://www.znamky.cz/csr"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104537.avif": {
+    "note": "Stránka 35 alba: Masaryk 1930, pamětní známky k 80. narozeninám T. G. Masaryka a Pohledy 1932. Černá vyobrazení (Masaryk 50 h, 2 Kč s portrétem 1850–1930, 5 Kč Český Krumlov) jsou předtisky alba; políčka pamětních známek s kupony jsou prázdná. Část známek je vlepena nad horním okrajem rámečku.",
+    "stamps": [
+      {
+        "name": "T. G. Masaryk, 50 h zelená (nový portrét)",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis 258",
+        "box": [0.084, 0.005, 0.197, 0.09],
+        "description": "Nový portrét prezidenta, rytina Karla Seizingera, ocelotisk. Na stránce jsou 3 kusy, většinou s lehkým razítkem.",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      },
+      {
+        "name": "T. G. Masaryk, 1 Kč červená (nový portrét)",
+        "country": "Československo",
+        "year": "1930",
+        "catalog": "Pofis 260",
+        "box": [0.511, 0.002, 0.629, 0.088],
+        "description": "Stejná série jako 50 h. Na stránce jsou 2 kusy: horní s razítkem z 24. 8. 1934, dolní s razítkem pošty Břeclav (?).",
+        "price": "razítkovaná orientačně do 50 Kč (nejnižší cenová úroveň v katalogu Znamky.cz), běžný kus spíš v řádu korun",
+        "sources": [
+          {
+            "title": "Znamky.cz, katalog ČSR I 1930–1939",
+            "url": "https://www.znamky.cz/filatelie/katalog-znamek/csr?period=1930-1939"
+          },
+          {
+            "title": "Wikipedie, T. G. Masaryk na československých známkách",
+            "url": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk_na_%C4%8Deskoslovensk%C3%BDch_po%C5%A1tovn%C3%ADch_zn%C3%A1mk%C3%A1ch"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104551.avif": {
+    "note": "Stránka 36 alba: Letecké známky 1930, 100. výročí narození Miroslava Tyrše 1932, Pribina (Nitra) 1933, Tyrš 1933 a Smetana 1934. Černá vyobrazení (letecké 50 h a 2 Kč) jsou předtisky alba; políčka ostatních leteckých známek, Tyrše 50 h a 2 Kč a Nitry 1 Kč jsou prázdná, na několika místech zůstaly jen nálepky.",
+    "stamps": [
+      {
+        "name": "Miroslav Tyrš, 50 h zelená",
+        "country": "Československo",
+        "year": "1932",
+        "catalog": "Pofis 268",
+        "box": [0.276, 0.445, 0.418, 0.553],
+        "description": "Série ke 100. výročí narození zakladatele Sokola a k IX. všesokolskému sletu; portrét v sokolském kroji s čapkou, rytina Karla Seizingera, rotační ocelotisk. Kus s dolním okrajem archu a strojovým vlnovkovým razítkem.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 2–5 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Tyrš 50 h zelená",
+            "url": "https://www.infofila.cz/100-vyroci-narozeni-miroslava-tyrse-50-h-zelena-s-3-d-1-id-595-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, ČSR I – ostatní vydání 1930–1939",
+            "url": "https://www.burda-auction.com/cz/aukce-68/show/3701/filatelie-csr-i-ostatni-vydani-1930_1939"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Tyrš, 1 Kč červená",
+        "country": "Československo",
+        "year": "1932",
+        "catalog": "Pofis 269",
+        "box": [0.434, 0.448, 0.58, 0.551],
+        "description": "Stejná série a stejný portrét jako 50 h. Denní razítko, název pošty je čitelný jen částečně.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Tyrš 1 Kč červená",
+            "url": "https://www.infofila.cz/100-vyroci-narozeni-miroslava-tyrse-1-kc-cervena-s-3-d-1-id-596-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, ČSR I – ostatní vydání 1930–1939",
+            "url": "https://www.burda-auction.com/cz/aukce-68/show/3701/filatelie-csr-i-ostatni-vydani-1930_1939"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Tyrš, 3 Kč hnědá",
+        "country": "Československo",
+        "year": "1932",
+        "catalog": "Pofis 271",
+        "box": [0.76, 0.454, 0.9, 0.553],
+        "description": "Nejvyšší hodnota série, portrét Tyrše bez čapky podle olejomalby Františka Ženíška, s letopočty 1832–1932. Náklad jen 3,77 mil. kusů. Razítko z 7. V. 1932.",
+        "price": "razítkovaná kolem 2,50 Kč, nepoužitá 60–150 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Tyrš 3 Kč hnědá",
+            "url": "https://www.infofila.cz/100-vyroci-narozeni-miroslava-tyrse-3-kc-hneda-s-3-d-1-id-598-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, ČSR I – ostatní vydání 1930–1939",
+            "url": "https://www.burda-auction.com/cz/aukce-68/show/3701/filatelie-csr-i-ostatni-vydani-1930_1939"
+          }
+        ]
+      },
+      {
+        "name": "Pribina – Nitra, 50 h zelená",
+        "country": "Československo",
+        "year": "1933",
+        "catalog": "Pofis 273",
+        "box": [0.433, 0.61, 0.578, 0.712],
+        "description": "Známka k 1100. výročí vysvěcení prvního kostela v Nitře knížetem Pribinou (833–1933), s pohledem na Nitranský hrad. Na stránce jsou 3 kusy, dolní s horním okrajem archu; všechny razítkované.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 2–5 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Nitra 50 h zelená",
+            "url": "https://www.infofila.cz/nitra-50-h-zelena-s-3-d-1-id-600-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Tyrš, 60 h fialová",
+        "country": "Československo",
+        "year": "1933",
+        "catalog": "Pofis 272",
+        "box": [0.008, 0.705, 0.124, 0.797],
+        "description": "Výplatní známka s novou, menší rytinou Tyršova portrétu, dva hodnotové štítky a nahoře jen nápis \"Tyrš\". Na stránce jsou 2 kusy, oba s denním razítkem.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Miroslav Tyrš 60 h",
+            "url": "https://www.infofila.cz/miroslav-tyrs-s-3-d-1-id-599-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, ČSR I – ostatní vydání 1930–1939",
+            "url": "https://www.burda-auction.com/cz/aukce-68/show/3701/filatelie-csr-i-ostatni-vydani-1930_1939"
+          }
+        ]
+      },
+      {
+        "name": "Bedřich Smetana, 50 h zelená",
+        "country": "Československo",
+        "year": "1934",
+        "catalog": "Pofis 275",
+        "box": [0.766, 0.708, 0.888, 0.798],
+        "description": "Známka k 50. výročí úmrtí skladatele Bedřicha Smetany, návrh V. Fiala, rytina Karel Seizinger. Razítkovaný kus.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, 50. výročí úmrtí Bedřicha Smetany",
+            "url": "https://www.infofila.cz/50-vyroci-umrti-bedricha-smetany-s-3-d-1-id-602-cenik-znamek"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104602.avif": {
+    "note": "Stránka 37 alba: Doplatní známky 1919, nezoubkované (stříhané) a zoubkované 11½. Černě tištěná 5 h vlevo dole je předtisk alba; políčka zoubkovaných doplatních známek jsou prázdná.",
+    "stamps": [
+      {
+        "name": "Doplatní, 5 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL1",
+        "box": [0.085, 0.028, 0.228, 0.131],
+        "description": "První československé doplatní známky s ornamentální kresbou Alfonse Muchy (podpis MUCHA pod obrazem), knihtisk, nezoubkované. Razítkovaná. Na stránce jsou 2 kusy (druhý vlepen do políčka pod ním).",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 5 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-5-h-hnedoolivova-s-3-d-7-id-735-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 10 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL2",
+        "box": [0.238, 0.133, 0.379, 0.236],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítkovaný kus.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 10 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-10-h-hnedoolivova-s-3-d-7-id-736-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 15 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL3",
+        "box": [0.396, 0.138, 0.536, 0.239],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítko s datem z roku 1920.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 15 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-15-h-hnedoolivova-s-3-d-7-id-737-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 20 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL4",
+        "box": [0.548, 0.083, 0.689, 0.164],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Na stránce jsou 2 kusy; horní, vlepený přes nadpis, má výrazné kruhové razítko s datem z roku 1920.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 20 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-20-h-hnedoolivova-s-3-d-7-id-738-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 25 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL5",
+        "box": [0.697, 0.145, 0.843, 0.246],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítkovaný kus.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 25 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-25-h-hnedoolivova-s-3-d-7-id-739-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 30 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL6",
+        "box": [0.85, 0.14, 0.997, 0.245],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítkovaný kus.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 30 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-30-h-hnedoolivova-s-3-d-7-id-740-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 40 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL7",
+        "box": [0.15, 0.253, 0.292, 0.355],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítkovaný kus.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 40 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-40-h-hnedoolivova-s-3-d-7-id-741-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 50 h hnědoolivová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL8",
+        "box": [0.309, 0.256, 0.452, 0.355],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítkovaný kus.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 50 h hnědoolivová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-50-h-hnedoolivova-s-3-d-7-id-742-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 100 h hnědá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL9",
+        "box": [0.467, 0.258, 0.611, 0.361],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Vyšší hodnoty série se tiskly v odlišných barvách. Razítko je jen slabě znatelné na okraji.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100 h hnědá",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-100-h-hneda-s-3-d-7-id-743-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 250 h oranžová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL10",
+        "box": [0.623, 0.262, 0.767, 0.366],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Méně běžná hodnota, razítkovaná.",
+        "price": "razítkovaná kolem 6 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 250 h oranžová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-250-h-oranzova-s-3-d-7-id-744-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 400 h červená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL11",
+        "box": [0.779, 0.264, 0.926, 0.368],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Méně běžná hodnota, s kruhovým razítkem.",
+        "price": "razítkovaná kolem 6 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 400 h červená",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-400-h-cervena-s-3-d-7-id-745-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 500 h zelená",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL12",
+        "box": [0.302, 0.377, 0.448, 0.481],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítko pravděpodobně pošty České Budějovice.",
+        "price": "razítkovaná kolem 1 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 500 h zelená",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-500-h-zelena-s-3-d-7-id-746-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 1000 h fialová",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL13",
+        "box": [0.462, 0.38, 0.605, 0.483],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Razítko jen na okraji, obraz čistý.",
+        "price": "razítkovaná kolem 1 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1000 h fialová",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-1000-h-fialova-s-3-d-7-id-747-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 2000 h modrá",
+        "country": "Československo",
+        "year": "1919",
+        "catalog": "Pofis DL14",
+        "box": [0.618, 0.382, 0.765, 0.487],
+        "description": "Stejná nezoubkovaná doplatní série podle návrhu Alfonse Muchy. Nejvyšší hodnota série, razítkovaná.",
+        "price": "razítkovaná kolem 2 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 2000 h modrá",
+            "url": "https://www.infofila.cz/doplatni-ornamentalni-kresba-2000-h-modra-s-3-d-7-id-748-cenik-znamek"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104616.avif": {
+    "note": "Stránka 38 alba: zoubkované doplatní známky 1919 (políčka prázdná) a doplatní provizoria 1922–1926 s modrým a fialovým přetiskem na Hradčanech. Vyobrazení \"50 DOPLATIT\" je předtisk alba; na jednom políčku zůstala jen nálepka.",
+    "stamps": [
+      {
+        "name": "Doplatní provizorium 100/80 h olivová, modrý přetisk",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL24",
+        "box": [0.612, 0.528, 0.784, 0.628],
+        "description": "Nevydaná zásoba nezoubkovaných Hradčan (80 h) přetištěná novou hodnotou a nápisem DOPLATIT pro použití jako doplatní známka; tento kus má modrý přetisk z roku 1922. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 10–40 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/80 h olivová",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-100-80-h-olivo-s-3-d-7-id-768-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 200/400 h modrofialová, modrý přetisk",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL28",
+        "box": [0.82, 0.53, 0.977, 0.63],
+        "description": "Hradčany 400 h s modrým přetiskem 200 DOPLATIT. Náklad jen 2,93 mil. kusů. Obraz je čistý, jen u horního okraje je pravděpodobně stopa razítka.",
+        "price": "razítkovaná kolem 1 Kč, nepoužitá 15–50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 200/400 h modrofialová",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-200-400-h-modr-s-3-d-7-id-772-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 10/3 h fialová, fialový přetisk",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL15",
+        "box": [0.038, 0.671, 0.209, 0.775],
+        "description": "Hradčany 3 h s tmavě fialovým (kovově lesklým) přetiskem 10 DOPLATIT z let 1922–1926, knihtisk, nezoubkovaná. Razítko není zřetelné.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 0,50–2 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 10/3 h fialová",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-10-3-h-fialova-s-3-d-7-id-751-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 20/3 h fialová, fialový přetisk",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL16",
+        "box": [0.226, 0.673, 0.398, 0.776],
+        "description": "Stejné provizorium s hodnotou 20 h. Kruhové denní razítko přes přetisk.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 0,50–2 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 20/3 h fialová",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-20-3-h-fialova-s-3-d-7-id-752-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 100/120 h šedá, fialový přetisk",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL25",
+        "box": [0.775, 0.8, 0.951, 0.89],
+        "description": "Hradčany 120 h šedočerná s fialovým přetiskem 100 DOPLATIT. Na stránce jsou 2 kusy vlepené pod sebou přes spodní okraj rámečku, oba s razítkem.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 9–30 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/120 h šedá",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-100-120-h-seda-s-3-d-7-id-769-cenik-znamek"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104633.avif": {
+    "note": "Stránka 39 alba: doplatní provizoria na Hradčanech, přetisky na doplatních známkách 1924–1926 a na známkách Hospodářství a věda 1926. Vyobrazení \"30 DOPLATIT\", \"20\" a \"DOPLATIT 30\" jsou předtisky alba; část známek je vlepena mimo políčka.",
+    "stamps": [
+      {
+        "name": "Doplatní provizorium 100/400 h modrofialová",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL26",
+        "box": [0.395, 0.04, 0.544, 0.131],
+        "description": "Nezoubkované Hradčany 400 h s tmavě fialovým přetiskem 100 DOPLATIT; pravděpodobně 400 h (modrofialový odstín), nikoli 100/1000 h. Na stránce jsou 2 kusy, horní vlepený přes nadpis.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/400 h modrofialová",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-100-400-h-modr-s-3-d-7-id-770-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 40/15 h cihlově červená, zoubkovaná",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL30",
+        "box": [0.552, 0.128, 0.705, 0.224],
+        "description": "Zoubkované Hradčany 15 h s přetiskem 40 DOPLATIT. Výrazné kruhové razítko s datem z roku 1926 (?).",
+        "price": "razítkovaná kolem 1 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 40/15 h cihlově červená",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-40-15-h-cihlov-s-3-d-7-id-774-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 100/1000 h fialová",
+        "country": "Československo",
+        "year": "1922–1926",
+        "catalog": "Pofis DL27",
+        "box": [0.207, 0.241, 0.354, 0.329],
+        "description": "Nezoubkované Hradčany 1000 h (původní hodnota je pod přetiskem částečně vidět) s přetiskem 100 DOPLATIT. Tmavší červenofialový odstín než u 100/400 h; razítkovaná.",
+        "price": "razítkovaná kolem 4 Kč, nepoužitá 15–50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/1000 h fialová",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hradcany-100-1000-h-fia-s-3-d-7-id-771-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 30/15 h hnědoolivová (přetisk na doplatní)",
+        "country": "Československo",
+        "year": "1924–1926",
+        "catalog": "Pofis DL33",
+        "box": [0.302, 0.382, 0.446, 0.482],
+        "description": "Muchova doplatní známka 15 h z roku 1919 s fialovým přetiskem nové hodnoty 30. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 30/15 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-na-doplatnich-30-15-h-s-3-d-7-id-777-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 40/15 h hnědoolivová (přetisk na doplatní)",
+        "country": "Československo",
+        "year": "1924–1926",
+        "catalog": "Pofis DL34",
+        "box": [0.462, 0.382, 0.604, 0.482],
+        "description": "Stejný přetisk na doplatní 15 h, hodnota 40. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 40/15 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-na-doplatnich-40-15-h-h-s-3-d-7-id-778-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 50/250 h oranžová (přetisk na doplatní)",
+        "country": "Československo",
+        "year": "1924–1926",
+        "catalog": "Pofis DL35",
+        "box": [0.615, 0.386, 0.762, 0.491],
+        "description": "Doplatní 250 h z roku 1919 přetištěná hodnotou 50. Razítko jen na okraji.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 6–13 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 50/250 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-na-doplatnich-50-250-h-s-3-d-7-id-779-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 50/400 h červená (přetisk na doplatní)",
+        "country": "Československo",
+        "year": "1924–1926",
+        "catalog": "Pofis DL36",
+        "box": [0.77, 0.388, 0.909, 0.491],
+        "description": "Doplatní 400 h přetištěná hodnotou 50. Na stránce jsou 2 kusy, druhý vlepen vpravo mimo rámeček.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 50/400 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-na-doplatnich-50-400-h-s-3-d-7-id-780-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 100/400 h červená (přetisk na doplatní)",
+        "country": "Československo",
+        "year": "1924–1926",
+        "catalog": "Pofis DL40",
+        "box": [0.539, 0.505, 0.671, 0.604],
+        "description": "Doplatní 400 h přetištěná hodnotou 100. Razítkovaná.",
+        "price": "razítkovaná kolem 1 Kč, nepoužitá 12–30 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/400 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-na-doplatnich-100-400-h-s-3-d-7-id-784-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 50/500 h zelená (Hospodářství a věda)",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis DL45",
+        "box": [0.372, 0.657, 0.54, 0.75],
+        "description": "Známka Hospodářství a věda z roku 1920 (návrh Jakub Obrovský) přetištěná pruhy přes původní hodnotu, nápisem DOPLATIT a novou hodnotou; zoubkovaná. Na stránce jsou 2 kusy, druhý světlejšího odstínu.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 3–10 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 50/500 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hospodarstvi-a-veda-50-s-3-d-7-id-789-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 60/400 h hnědá (Hospodářství a věda)",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis DL46",
+        "box": [0.74, 0.657, 0.901, 0.752],
+        "description": "Stejné provizorium na známce 400 h. Na stránce jsou 2 kusy, druhý vlepen vpravo dole přes rámeček.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 7–20 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 60/400 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hospodarstvi-a-veda-60-s-3-d-7-id-790-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 40/200 h fialová (Hospodářství a věda)",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis DL43",
+        "box": [0.096, 0.77, 0.261, 0.87],
+        "description": "Provizorium na známce 200 h. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 40/200 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hospodarstvi-a-veda-40-s-3-d-7-id-787-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 100/600 h fialová (Hospodářství a věda)",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis DL47",
+        "box": [0.272, 0.771, 0.433, 0.87],
+        "description": "Provizorium na známce 600 h. Na stránce jsou 2 kusy, jeden s razítkem pošty na Moravě (čitelné \"MAR…\").",
+        "price": "razítkovaná kolem 2 Kč, nepoužitá 14–40 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/600 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hospodarstvi-a-veda-100-s-3-d-7-id-791-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní 40/300 h červená (Hospodářství a věda)",
+        "country": "Československo",
+        "year": "1926",
+        "catalog": "Pofis DL44",
+        "box": [0.625, 0.775, 0.789, 0.873],
+        "description": "Provizorium na známce 300 h; dražší hodnota této řady. Kruhové razítko přes celý obraz.",
+        "price": "razítkovaná kolem 1 Kč, nepoužitá 8–25 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 40/300 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-hospodarstvi-a-veda-40-s-3-d-7-id-788-cenik-znamek"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104651.avif": {
+    "note": "Volný list bez předtisku (otočený na šířku) s novinovými známkami Holubice 1937 a poválečnými novinovými známkami Roznašeč novin; na několika místech zůstaly jen nálepky.",
+    "stamps": [
+      {
+        "name": "Novinová Holubice, 2 h žlutohnědá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV14",
+        "box": [0.05, 0.124, 0.167, 0.315],
+        "description": "Druhá definitivní emise novinových známek podle kresby Jaroslava Bendy (podpis BENDA pod obrazem), knihtisk, nezoubkované. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 2 h",
+            "url": "https://www.infofila.cz/novinove-holubice-2-h-zlutohneda-s-3-d-4-id-720-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 5 h modrá",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV15",
+        "box": [0.168, 0.113, 0.285, 0.31],
+        "description": "Nejběžnější hodnota série, vytištěno přes 445 mil. kusů. Nezoubkovaná, bez zřetelného razítka.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 5 h",
+            "url": "https://www.infofila.cz/novinove-holubice-5-h-modra-s-3-d-4-id-721-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 10 h červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV18",
+        "box": [0.287, 0.117, 0.392, 0.287],
+        "description": "Stejná série, nezoubkovaná; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 10 h",
+            "url": "https://www.infofila.cz/novinove-holubice-10-h-cervena-s-3-d-4-id-724-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 9 h zelená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV17",
+        "box": [0.393, 0.112, 0.506, 0.293],
+        "description": "Stejná série, nezoubkovaná; razítko jen slabě na okraji.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 9 h",
+            "url": "https://www.infofila.cz/novinove-holubice-9-h-zelena-s-3-d-4-id-723-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 7 h světle červená",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV16",
+        "box": [0.508, 0.1, 0.63, 0.293],
+        "description": "Stejná série, nezoubkovaná. Na levém okraji je vidět kousek sousední známky z archu.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 7 h",
+            "url": "https://www.infofila.cz/novinove-holubice-7-h-svetle-cervena-s-3-d-4-id-722-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Novinová známka Roznašeč novin, 1 Kčs šedá",
+        "country": "Československo",
+        "year": "1945",
+        "box": [0.85, 0.065, 0.968, 0.272],
+        "description": "Poválečná nezoubkovaná novinová známka s roznašečem novin s poštovní trubkou (knihtisk), už s měnou Kčs; pravděpodobně Pofis NV31. Razítkovaná.",
+        "price": "cena nedohledána, běžná známka v řádu korun",
+        "sources": [
+          {
+            "title": "Burda Auction, ČSR 1945–1992 (Pof. NV24 novinová 10 h 1945)",
+            "url": "https://www.burda-auction.com/en/eshop/show/2594/philately-czechoslovakia-1945_1992-design-of-stamps/"
+          },
+          {
+            "title": "Scott 2005, Czechoslovakia – Newspaper Delivery Boy 1945",
+            "url": "http://burgzt.brigin.lt/pasto_zenklai/katalogai/Scott/Scott%202005%20Postage%20Stamp%20Catalogue%20~%20Czechoslovakia.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Novinová známka Roznašeč novin, 10 h červená",
+        "country": "Československo",
+        "year": "1945",
+        "catalog": "Pofis NV24",
+        "box": [0.287, 0.286, 0.403, 0.477],
+        "description": "Nižší hodnota stejné poválečné novinové série Roznašeč novin, nezoubkovaná, s kruhovým denním razítkem.",
+        "price": "cena nedohledána, běžná známka v řádu korun",
+        "sources": [
+          {
+            "title": "Burda Auction, ČSR 1945–1992 (Pof. NV24 novinová 10 h 1945)",
+            "url": "https://www.burda-auction.com/en/eshop/show/2594/philately-czechoslovakia-1945_1992-design-of-stamps/"
+          },
+          {
+            "title": "Scott 2005, Czechoslovakia – Newspaper Delivery Boy 1945",
+            "url": "http://burgzt.brigin.lt/pasto_zenklai/katalogai/Scott/Scott%202005%20Postage%20Stamp%20Catalogue%20~%20Czechoslovakia.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 5 h modrá, se zoubkováním",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV15",
+        "box": [0.377, 0.53, 0.49, 0.722],
+        "description": "Holubice byly vydány nezoubkované; zoubkované kusy jsou pravděpodobně se soukromým (neúředním) zoubkováním, kterým si velcí odesílatelé novin usnadňovali oddělování známek. Na stránce jsou 2 kusy, druhý vlevo dole s okrajem archu.",
+        "price": "razítkovaná kolem 0,50 Kč jako běžná známka; soukromá zoubkování jsou levná specializace",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 5 h",
+            "url": "https://www.infofila.cz/novinove-holubice-5-h-modra-s-3-d-4-id-721-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      },
+      {
+        "name": "Novinová Holubice, 10 h červená, se zoubkováním",
+        "country": "Československo",
+        "year": "1937",
+        "catalog": "Pofis NV18",
+        "box": [0.491, 0.517, 0.603, 0.706],
+        "description": "Stejně jako 5 h vedle pravděpodobně se soukromým zoubkováním. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč jako běžná známka; soukromá zoubkování jsou levná specializace",
+        "sources": [
+          {
+            "title": "Infofila.cz, Novinové Holubice 10 h",
+            "url": "https://www.infofila.cz/novinove-holubice-10-h-cervena-s-3-d-4-id-724-cenik-znamek"
+          },
+          {
+            "title": "Burda Auction, novinové známky ČSR I – informace k emisím",
+            "url": "https://www.burda-auction.com/en/public-auction-71/show/1401/philately-czechoslovakia-1918_1939-hradcany-issue-_-entires-newspaper-stamps"
+          }
+        ]
+      }
+    ]
+  },
+  "20261121-104703.avif": {
+    "note": "Stránka 40 alba: doplatní provizoria 1927 na známkách Osvobozená republika a definitivní doplatní známky 1928. Vyobrazení \"40 DOPLATIT 40\" je předtisk alba; políčka 100 h (zoubkování 13¾), 60/25, 50/150 (13¾) a 50/20 jsou prázdná.",
+    "stamps": [
+      {
+        "name": "Doplatní provizorium 100 h hnědá (Osvobozená republika)",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis DL53",
+        "box": [0.362, 0.008, 0.482, 0.097],
+        "description": "Čokoládově hnědá známka 100 h, přetištěná jen nápisem DOPLATIT. Na stránce jsou 2 kusy, horní vlepený nad rámečkem stránky.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 6–15 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100 h hnědá",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-osvobozena-republika-10-s-3-d-7-id-797-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 60/185 h oranžová (Osvobozená republika)",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis DL52",
+        "box": [0.229, 0.116, 0.35, 0.207],
+        "description": "Známka Osvobozená republika (návrh V. H. Brunner, značka VHB) s přetiskem DOPLATIT a novou hodnotou. Výrazné kruhové razítko.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 1,50–6 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 60/185 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-osvobozena-republika-60-s-3-d-7-id-796-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 100/25 h (Osvobozená republika)",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis DL54",
+        "box": [0.778, 0.13, 0.897, 0.218],
+        "description": "Známka Osvobozená republika (návrh V. H. Brunner, značka VHB) s přetiskem DOPLATIT a novou hodnotou. Pravděpodobně 100/25 h podle šedofialového odstínu podkladové známky (původní hodnota je zakryta přetiskem). Razítko s rokem 1928 (?).",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 6–15 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 100/25 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-osvobozena-republika-10-s-3-d-7-id-798-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní provizorium 50/150 h červená (Osvobozená republika)",
+        "country": "Československo",
+        "year": "1927",
+        "catalog": "Pofis DL50",
+        "box": [0.284, 0.221, 0.403, 0.311],
+        "description": "Známka Osvobozená republika (návrh V. H. Brunner, značka VHB) s přetiskem DOPLATIT a novou hodnotou. Pod přetiskem je vidět původní hodnota 150. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč, nepoužitá 1,50–6 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 50/150 h",
+            "url": "https://www.infofila.cz/doplatni-vypotrebni-vydani-osvobozena-republika-50-s-3-d-7-id-794-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 5 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL55",
+        "box": [0.012, 0.389, 0.18, 0.483],
+        "description": "První hodnota definitivní doplatní série 1928 podle návrhu Jaroslava Vlčka, knihtisk, zoubkování 13¾. Razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 5 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-5-h-cervena-s-3-d-7-id-799-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 10 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL56",
+        "box": [0.211, 0.391, 0.375, 0.485],
+        "description": "Stejná série, haléřové hodnoty jsou červené. Razítko jen na okraji.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 10 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-10-h-cervena-s-3-d-7-id-800-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 20 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL57",
+        "box": [0.407, 0.394, 0.569, 0.494],
+        "description": "Stejná série; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 20 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-20-h-cervena-s-3-d-7-id-801-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 30 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL58",
+        "box": [0.597, 0.399, 0.76, 0.496],
+        "description": "Stejná série; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 30 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-30-h-cervena-s-3-d-7-id-802-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 40 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL59",
+        "box": [0.79, 0.403, 0.952, 0.499],
+        "description": "Stejná série; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 40 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-40-h-cervena-s-3-d-7-id-803-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 50 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL60",
+        "box": [0.11, 0.507, 0.27, 0.601],
+        "description": "Stejná série; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 50 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-50-h-cervena-s-3-d-7-id-804-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 1 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL62",
+        "box": [0.302, 0.507, 0.462, 0.604],
+        "description": "Korunové hodnoty série jsou modré. Na stránce jsou 3 kusy; jeden má navíc část červeného otisku (pravděpodobně poštovní nebo firemní razítko).",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 1 Kč",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-1-kc-modra-s-3-d-7-id-806-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 2 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL63",
+        "box": [0.497, 0.512, 0.659, 0.613],
+        "description": "Stejná série; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 2 Kč",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-2-kc-modra-s-3-d-7-id-807-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 60 h červená",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL61",
+        "box": [0.693, 0.517, 0.853, 0.615],
+        "description": "Stejná série. Na stránce jsou 2 kusy; druhý, vlepený vpravo přes rámeček, má okraj archu s červeným počitadlem 37 a razítko PRAHA z června 1938 (?).",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 60 h",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-60-h-cervena-s-3-d-7-id-805-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 5 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL64",
+        "box": [0.203, 0.624, 0.366, 0.72],
+        "description": "Stejná série; razítkovaná.",
+        "price": "razítkovaná kolem 0,50 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 5 Kč",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-5-kc-modra-s-3-d-7-id-808-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 10 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL65",
+        "box": [0.396, 0.628, 0.56, 0.727],
+        "description": "Vyšší hodnota série; razítkovaná.",
+        "price": "razítkovaná kolem 1 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 10 Kč",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-10-kc-modra-s-3-d-7-id-809-cenik-znamek"
+          }
+        ]
+      },
+      {
+        "name": "Doplatní, 20 Kč modrá",
+        "country": "Československo",
+        "year": "1928",
+        "catalog": "Pofis DL66",
+        "box": [0.59, 0.63, 0.754, 0.729],
+        "description": "Nejvyšší hodnota série; razítkovaná.",
+        "price": "razítkovaná kolem 2 Kč (ceník Infofila)",
+        "sources": [
+          {
+            "title": "Infofila.cz, Doplatní 1928 20 Kč",
+            "url": "https://www.infofila.cz/doplatni-definitivni-vydani-20-kc-modra-s-3-d-7-id-810-cenik-znamek"
+          }
+        ]
+      }
+    ]
+  }
+}

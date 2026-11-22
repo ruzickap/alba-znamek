@@ -1,0 +1,65 @@
+---
+name: deploy-web
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/deploy-web.yml
+      - mise.toml
+      - web/**
+  workflow_dispatch:
+
+permissions: read-all
+
+jobs:
+  deploy-web:
+    name: Deploy the album viewer to GitHub Pages
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 10
+    # The site is uploaded as a Pages artifact - no gh-pages branch with ~1 GB of photos in the repository
+    permissions:
+      contents: read # Required to checkout repository.
+      id-token: write # Required by actions/deploy-pages.
+      pages: write # Required by actions/deploy-pages.
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # The photos are in Git LFS (~0.9 GiB, free quota 10 GiB/month) - the cache
+      # makes deploys download them from LFS only when they change
+      - name: List Git LFS objects
+        run: git lfs ls-files --long > .lfs-assets-id
+
+      - name: Restore Git LFS cache
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: .git/lfs
+          key: lfs-${{ hashFiles('.lfs-assets-id') }}
+
+      - name: Pull Git LFS objects
+        run: git lfs pull
+
+      - name: Install Bun via mise
+        uses: jdx/mise-action@236a21c3b91f5db6d4e174b348674a0f0caac06d # v5.2.9
+        with:
+          install_args: bun
+
+      - name: Type-check and build the album viewer
+        # GitHub Pages sites are limited to 1 GB - web/dist is ~950 MB
+        run: mise run web:build
+
+      - name: Upload the site as a Pages artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: web/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
